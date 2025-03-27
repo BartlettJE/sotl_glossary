@@ -20,7 +20,9 @@ book:
   date: "04/02/2025"
   chapters:
     - index.qmd
-    - I.qmd
+    - A.qmd
+    - E.qmd
+    - P.qmd
     - S.qmd
     - references.qmd
 
