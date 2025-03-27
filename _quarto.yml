@@ -1,0 +1,37 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "SoTL Glossary"
+  author:
+  - orcid: 0000-0001-7715-5973
+    name:
+      family: Paterson
+      given: Helena
+  - orcid: 0000-0002-4523-2097
+    name:
+      family: McAleer
+      given: Phil
+  - orcid: 0000-0002-4191-5245
+    name:
+      family: Bartlett
+      given: James
+  date: "04/02/2025"
+  chapters:
+    - index.qmd
+    - I.qmd
+    - S.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: journal
+    number-sections: false
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
