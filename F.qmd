@@ -2,11 +2,11 @@
  
 ## Feedback
 
-<dfn>NA</dfn>
+<dfn>Information about reactions to a person’s contribution to a task</dfn>
 
 Long Definition: 
 
-
+Feedback in educational settings
 
 
 

@@ -3,7 +3,6 @@ library(tidyverse)
 library(readxl)
 
 # load form of terms and definitions
-dat <- read_xlsx("terms.xlsx")
 dat <- read_csv("Terms_to_render.csv")
 
 # get first letter of each term 

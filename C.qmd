@@ -80,11 +80,11 @@ Tags: NA
  
 ## Control Groups
 
-<dfn>NA</dfn>
+<dfn>In experimental design a group that did not experience an intervention</dfn>
 
 Long Definition: 
 
-
+A group that represented the baseline or default state
 
 
 

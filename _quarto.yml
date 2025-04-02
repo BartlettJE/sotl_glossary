@@ -47,8 +47,6 @@ format:
   html:
     theme: journal
     number-sections: false
-  pdf:
-    documentclass: scrreprt
 
 editor: visual
 

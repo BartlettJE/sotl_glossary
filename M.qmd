@@ -28,7 +28,7 @@ Tags: NA
  
 ## Mentimeter
 
-<dfn>An interactive computer programme tool which allows an audience to interact with pre-defined (presenter designed) questions using their own device.</dfn>
+<dfn>An interactive computer programme tool which allows an audience to interact with pre-defined (presenter-designed) questions using their own device.</dfn>
 
 Long Definition: 
 
@@ -80,7 +80,7 @@ Tags: NA
  
 ## Moodle
 
-<dfn>NA</dfn>
+<dfn>Core moodle (modular object-oriented dynamic learning environment) is an open-source learning management system designed for online education and training. It allows educators to create, deliver, and manage courses and assessment activities in a digital environment and also facilitates integrations with a variety of other complementary learning technologies, enhancing the learning experience for students and educators.</dfn>
 
 Long Definition: 
 
