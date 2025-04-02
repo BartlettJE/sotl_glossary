@@ -20,6 +20,7 @@ book:
   date: "04/02/2025"
   chapters:
     - index.qmd
+    - Contributors.qmd
     - A.qmd
     - C.qmd
     - D.qmd

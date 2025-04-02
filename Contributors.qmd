@@ -1,0 +1,17 @@
+# Contributors
+
+The following people have contributed to the SoTL Compendium:
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(readxl)
+library(tidyverse)
+
+contributors <- read_xlsx("SoTL_Compendium_Contributors.xlsx") 
+
+contributors %>% 
+  drop_na(Firstname) %>% 
+  mutate(Fullname = paste(Firstname, Surname, sep = " ")) %>% 
+  select(Name = Fullname, Affiliation = `Affiliation 1`) %>% 
+  knitr::kable()
+```
+
