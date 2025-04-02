@@ -1,4 +1,18 @@
      - A.qmd
+     - C.qmd
+     - D.qmd
      - E.qmd
+     - F.qmd
+     - G.qmd
+     - H.qmd
+     - K.qmd
+     - L.qmd
+     - M.qmd
+     - O.qmd
      - P.qmd
+     - Q.qmd
+     - R.qmd
      - S.qmd
+     - T.qmd
+     - V.qmd
+     - W.qmd

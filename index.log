@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.23)  2 APR 2025 11:22
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2022.3.23)  2 APR 2025 12:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1046,19 +1046,93 @@ Class scrreprt Warning: \float@addtolists detected!
 (scrreprt)              a package that still implements the
 (scrreprt)              deprecated \float@addtolist interface.
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--245
+\TU/lmr/m/n/10.95 https://www.qaa.ac.uk/reviewing-higher-education/degree-award
+ing-powers-and-university-
+ []
+
 [4
 
-]
+] [5] [6]
 chapter 2.
-[5
-
-]
-chapter 3.
-[6
-
-]
-chapter 4.
 [7
+
+] [8]
+chapter 3.
+[9
+
+] [10]
+chapter 4.
+[11
+
+] [12] [13]
+chapter 5.
+[14
+
+]
+chapter 6.
+[15
+
+]
+chapter 7.
+[16
+
+]
+chapter 8.
+[17
+
+]
+chapter 9.
+[18
+
+]
+Overfull \hbox (37.21774pt too wide) in paragraph at lines 701--703
+[]\TU/lmr/m/n/10.95 A career track at the University of Glasgow https://www.gla
+.ac.uk/media/Media_499574_smxx.pdf 
+ []
+
+[19]
+chapter 10.
+
+Overfull \hbox (92.22624pt too wide) in paragraph at lines 734--736
+[]\TU/lmr/m/n/10.95 Deep dive: https://www.mentimeter.com/ is the main company 
+website. https://www.mentimeter.com/education
+ []
+
+[20
+
+] [21]
+chapter 11.
+[22
+
+] [23]
+chapter 12.
+[24
+
+] [25] [26]
+chapter 13.
+[27
+
+]
+chapter 14.
+[28
+
+] [29]
+chapter 15.
+[30
+
+] [31] [32]
+chapter 16.
+[33
+
+]
+chapter 17.
+[34
+
+]
+chapter 18.
+[35
 
 ]
 
@@ -1068,15 +1142,15 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.278 \end{CSLReferences}
-                          
+l.1244 \end{CSLReferences}
+                           
 Here is how much of TeX's memory you used:
- 22187 strings out of 476919
- 416924 string characters out of 5821840
- 1046060 words of memory out of 5000000
- 41904 multiletter control sequences out of 15000+600000
+ 22255 strings out of 476919
+ 417332 string characters out of 5821840
+ 1053060 words of memory out of 5000000
+ 41972 multiletter control sequences out of 15000+600000
  407002 words of font info for 57 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 111i,7n,122p,10600b,391s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 111i,8n,122p,10600b,391s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on index.pdf (7 pages).
+Output written on index.pdf (35 pages).

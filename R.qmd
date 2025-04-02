@@ -1,6 +1,6 @@
-#  S 
+#  R 
  
-## Sample Size
+## Red Brick University
 
 <dfn>NA</dfn>
 
@@ -26,7 +26,7 @@ Contributors: NA
 
 Tags: NA
  
-## Scholarship
+## Reflective Practice
 
 <dfn>NA</dfn>
 
@@ -52,33 +52,7 @@ Contributors: NA
 
 Tags: NA
  
-## Sotl
-
-<dfn>An abbreviation for the phrase scholarship of learning and teaching</dfn>
-
-Long Definition: 
-
-The scholarship of learning and teaching is
-
-
-
-
-
-
-
-
-
-
-
-Deep Dive:
-
-NA
-
-Contributors: NA
-
-Tags: NA
- 
-## Student Voice
+## Regression
 
 <dfn>NA</dfn>
 
@@ -104,7 +78,7 @@ Contributors: NA
 
 Tags: NA
  
-## Sustainable
+## Research-Led Teaching
 
 <dfn>NA</dfn>
 
@@ -130,7 +104,7 @@ Contributors: NA
 
 Tags: NA
  
-## Synchronous
+## Russell Group
 
 <dfn>NA</dfn>
 

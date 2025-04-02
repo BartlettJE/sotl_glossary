@@ -1,7 +1,131 @@
 #  E 
  
-## Engagement
+## Ecopedagogy
 
-<dfn>Psychological investiment in learning.</dfn>
+<dfn>NA</dfn>
 
-Psychological investiment in learning.
+Long Definition: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deep Dive:
+
+NA
+
+Contributors: NA
+
+Tags: NA
+ 
+## Edi
+
+<dfn>An abbreviation for the term equality, diversity and inclusion</dfn>
+
+Long Definition: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deep Dive:
+
+NA
+
+Contributors: NA
+
+Tags: NA
+ 
+## Effect Sizes
+
+<dfn>A measure of the outcome of a study.</dfn>
+
+Long Definition: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deep Dive:
+
+NA
+
+Contributors: NA
+
+Tags: NA
+ 
+## Epistemology
+
+<dfn>Epistemology is the study of the nature of knowledge, how it is defined, what can be known, and what are its limits.</dfn>
+
+Long Definition: 
+
+Epistemology is the study of the nature of knowledge, how it is defined, what can be known, and what are its limits.
+
+Guba, e. S. and lincoln, y. S. (1994) ‘competing paradigms in qualitative research’, in denzin, n.k. & Lincoln, y.s. (eds.) Handbook of qualitative research. 2 ed. Thousand oaks, sage.
+
+“Epistemology, according to the oxford english dictionary, is the theory or science of the method and ground of knowledge. It is a core area of philosophical study that includes the sources and limits, rationality and justification of knowledge.”
+
+Stone, l. 2008. Epistemology. In given, l. (ed.) The sage encyclopedia of qualitative research methods. Thousand oaks.
+
+“Branch of philosophy that investigates the possibility, origins, nature, and extent of human knowledge. Although the effort to develop an adequate theory of knowledge is at least as old as plato’s theaetetus, epistemology has dominated western philosophy only since the era of descartes and locke, as an extended dispute between rationalism and empiricism over the respective importance of a priori and a posteriori origins. Contemporary postmodern thinkers (including many feminist philosophers) have proposed the contextualization of knowledge as part of an intersubjective process.
+
+“Defined narrowly, epistemology is the study of knowledge and justified belief. As the study of knowledge, epistemology is concerned with the following questions. What are the necessary and sufficient conditions of knowledge? What are its sources? What is its structure, and what are its limits? As the study of justified belief, epistemology aims to answer questions such as how we are to understand the concept of justification? What makes justified beliefs justified? Is justification internal or external to one’s own mind? Understood more broadly, epistemology is about issues having to do with the creation and dissemination of knowledge in particular areas of inquiry.
+
+Deep Dive:
+
+NA
+
+Contributors: Nic Kipar
+
+Tags: Methods
+ 
+## Ethics
+
+<dfn>NA</dfn>
+
+Long Definition: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deep Dive:
+
+NA
+
+Contributors: NA
+
+Tags: NA

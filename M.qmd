@@ -1,0 +1,131 @@
+#  M 
+ 
+## Mann-Whitney U Test
+
+<dfn>NA</dfn>
+
+Long Definition: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deep Dive:
+
+NA
+
+Contributors: NA
+
+Tags: NA
+ 
+## Mentimeter
+
+<dfn>An interactive computer programme tool which allows an audience to interact with pre-defined (presenter designed) questions using their own device.</dfn>
+
+Long Definition: 
+
+Deep dive: https://www.mentimeter.com/ is the main company website. https://www.mentimeter.com/education shows education use cases.
+
+The company describes the tool as a way to “turn presentations into conversations with interactive polls that engage meetings and classrooms”
+
+
+
+
+
+
+
+
+
+Deep Dive:
+
+NA
+
+Contributors: Alison McCandlish
+
+Tags: NA
+ 
+## Mixed Methods
+
+<dfn>NA</dfn>
+
+Long Definition: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deep Dive:
+
+NA
+
+Contributors: NA
+
+Tags: NA
+ 
+## Moodle
+
+<dfn>NA</dfn>
+
+Long Definition: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deep Dive:
+
+NA
+
+Contributors: NA
+
+Tags: NA
+ 
+## Multidisciplinary
+
+<dfn>NA</dfn>
+
+Long Definition: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deep Dive:
+
+NA
+
+Contributors: NA
+
+Tags: NA

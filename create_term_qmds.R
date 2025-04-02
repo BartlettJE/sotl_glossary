@@ -4,12 +4,13 @@ library(readxl)
 
 # load form of terms and definitions
 dat <- read_xlsx("terms.xlsx")
+dat <- read_csv("Terms_to_render.csv")
 
 # get first letter of each term 
 dat <- dat %>% 
-  mutate(first_letter = toupper(substr(term, 0, 1)), # capitalise first letter of term
+  mutate(first_letter = toupper(substr(terms, 0, 1)), # capitalise first letter of term
          entry = "") %>%  # blank column for later
-  arrange(first_letter, term) # organise by first letter then term for entries in alphabetical order
+  arrange(first_letter, terms) # organise by first letter then term for entries in alphabetical order
 
 # What pages to add to .yml to make copy and paste easier?
 cat(paste0("     - ", sort.int(unique(dat$first_letter)), ".qmd", collapse = "\n"),
@@ -20,11 +21,21 @@ make_entry <- function(dat){
   # for each entry, use glue to add the term, short definition, and long definition 
   entry <- glue("
 
-## {dat$term}
+## {dat$terms}
 
-<dfn>{dat$short_def}</dfn>
+<dfn>{dat$ShortDef}</dfn>
 
-{dat$long_def}
+Long Definition: 
+
+{dat$LongDef}
+
+Deep Dive:
+
+{dat$DeepDive}
+
+Contributors: {dat$Contributors}
+
+Tags: {dat$Tags}
 
 ")
 } # careful spacing to make sure it formats the .qmds nicely later
