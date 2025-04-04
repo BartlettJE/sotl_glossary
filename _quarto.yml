@@ -4,6 +4,7 @@ project:
 
 book:
   title: "SoTL Compendium"
+  google-analytics: "G-PL27NX2KY8"
   author:
   - orcid: 0000-0001-7715-5973
     name:
