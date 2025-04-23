@@ -3,9 +3,9 @@ project:
   output-dir: docs
 
 book:
-  title: "SoTL Compendium"
+  title: "Scholarship of Teaching and Learning Compendium"
   google-analytics: "G-PL27NX2KY8"
-  author:
+  author: 
   - orcid: 0000-0001-7715-5973
     name:
       family: Paterson
@@ -41,6 +41,8 @@ book:
     - V.qmd
     - W.qmd
     - references.qmd
+  sidebar:
+      title: SoTL Compendium
 
 bibliography: references.bib
 

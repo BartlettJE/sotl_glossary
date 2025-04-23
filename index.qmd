@@ -1,3 +1,9 @@
+---
+engine: knitr
+---
+
 # Overview {.unnumbered}
 
 The glossary outlines a crowd-sourced collection of terms used in the Scholarship of Teaching and Learning (SoTL).
+
+**Last edited:** `{r} Sys.Date()`
