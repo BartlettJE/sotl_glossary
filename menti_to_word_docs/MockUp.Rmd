@@ -1,0 +1,60 @@
+---
+output:
+  word_document:
+    reference_docx: ref-style.docx
+  fontsize: 12pt
+---
+
+# Definitions for SoTL Glossary
+
+## Role Call:
+
+Below, please enter your name, affiliation, orcid (if known) and any social media tags you wish to be associated by. These details can be updated later. Please separate items with a semi-colon
+
+- Helena Paterson; School of Psychology and Neuroscience; University of Glasgow
+- Phil McAleer; School of Psychology and Neuroscience; University of Glasgow
+- James Bartlett; School of Psychology and Neuroscience; University of Glasgow
+- &nbsp;
+- &nbsp;
+- &nbsp;
+
+
+## Definitions
+
+Below you will see the list of terms we have so far generated. Please choose a term and fill in as much information as possible.  Please do not change the words already in place (e.g. Terms, Long Definition, Short Definition, etc) as we need these to be the same throughout. There is also a list of empty entries you can add terms we have yet to think of.
+
+
+## Prefilled Terms
+
+___
+
+```{r, echo=FALSE, warning = FALSE, message=FALSE, results='asis'}
+
+for(i in 1:dim(dat)[1]){
+  cat("**Term:**&nbsp; ", paste0(dat$terms[i]), "\n\n")
+  cat("**Short Definition:**&nbsp; \n\n")
+  cat("**Long Definition:**&nbsp; \n\n")
+  cat("**Deep Dive:**&nbsp; \n\n")
+  cat("**Contributors:**&nbsp; \n\n")
+  cat("**Tags:**&nbsp; \n\n")
+  cat("___\n\n")
+}
+```
+
+## Additional Terms
+
+___
+
+```{r, echo=FALSE, warning = FALSE, message=FALSE, results='asis'}
+
+for(i in 1:20){
+  cat("**Term:**&nbsp; \n\n")
+  cat("**Short Definition:**&nbsp; \n\n")
+  cat("**Long Definition:**&nbsp; \n\n")
+  cat("**Deep Dive:**&nbsp; \n\n")
+  cat("**Contributors:**&nbsp; \n\n")
+  cat("**Tags:**&nbsp; \n\n")
+  cat("___\n\n")
+}
+```
+
