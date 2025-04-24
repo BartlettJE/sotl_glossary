@@ -1,0 +1,48 @@
+---
+engine: knitr
+---
+
+# Index
+
+The following is a list of all terms in the compendium that have at least a short definition associated with them.
+
+::: {layout-ncol=3} 
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+library(tidyverse)
+
+alldat <- read_csv("Terms_to_render.csv") %>%
+  mutate(terms = trimws(terms,
+                        which = "both",
+                        whitespace = "[\\h\\v]"))
+
+t <- alldat %>%
+  select(terms, ShortDef) %>%
+  filter(str_count(ShortDef) > 0) %>%
+  mutate(firstL = substr(terms,1,1)) %>%
+  mutate(terms_sm = str_to_lower(terms),
+         terms_sm = str_replace_all(terms_sm, " ", "-")) %>%
+  mutate(link = paste0("https://bartlettje.github.io/sotl_glossary/", firstL,".html#", terms_sm))
+
+for(i in 1:dim(t)[1]){
+  cat(paste0("[",t$terms[i],"](",t$link[i],")"),"\n\n")
+}
+```
+
+:::
+
+The following is a list of all terms in the compendium that do not yet have definition associated with them.
+
+::: {layout-ncol=3}
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+
+x <- anti_join(alldat,t)
+
+for(i in 1:dim(x)[1]){
+  cat(paste0(x$terms[i]),"\n\n")
+}
+
+```
+
+:::

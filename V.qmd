@@ -20,7 +20,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: NA
 
@@ -28,7 +30,7 @@ Tags: NA
  
 ## Vle
 
-<dfn>NA</dfn>
+<dfn>Virtual learning environment</dfn>
 
 Long Definition: 
 
@@ -46,7 +48,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: NA
 

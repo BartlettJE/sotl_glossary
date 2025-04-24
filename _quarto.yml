@@ -19,6 +19,10 @@ book:
       family: Bartlett
       given: James
   date: "04/02/2025"
+  sharing:
+    - linkedin
+  repo-url: https://github.com/BartlettJE/sotl_glossary
+  repo-actions: [issue, source]
   chapters:
     - index.qmd
     - Contributors.qmd
@@ -40,9 +44,12 @@ book:
     - T.qmd
     - V.qmd
     - W.qmd
+    - Allterms.qmd
     - references.qmd
   sidebar:
       title: SoTL Compendium
+  page-footer:
+      left: "CC-BY-SA-4.0 (2024) Helena Paterson, Phil McAleer & James Bartlett"
 
 bibliography: references.bib
 

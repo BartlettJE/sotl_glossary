@@ -20,7 +20,9 @@ Long Definition:
 
 Deep Dive:
 
-Accreditation can mean different things/be applied differently in different academic disciplines.  The [QAA website])https://www.qaa.ac.uk/reviewing-higher-education/degree-awarding-powers-and-university-title) gives more information about the general degree awarding powers that universities hold. Some schools/departments within a university will be accredited by an organisation (for example, the Adam Smith Business School at the University of Glasgow is accredited by AACSB, EQUIS, and AMBA), whereas in other areas, some degrees are accredited by professional bodies/organisations. This means that they are aligned with the professional body‚Äôs own qualifications and ensures that the education programme meets industry standards. Examples include the City Planning and Real Estate Msc degrees at the University of Glasgow are accredited by the [Royal Town Planning Institute (RTPI)](http://www.rtpi.org.uk https://www.rtpi.org.uk/become-a-planner/study-at-university/wales-scotland-and-northern-ireland/) and the [Royal Institute for Chartered Surveyors](https://www.rics.org https://www.rics.org/surveyor-careers/how-to-become-a-surveyor/university-surveying-courses) Other example include medicine and dentistry.
+Accreditation can mean different things/be applied differently in different academic disciplines.  The [QAA website](https://www.qaa.ac.uk/reviewing-higher-education/degree-awarding-powers-and-university-title) gives more information about the general degree awarding powers that universities hold. Some schools/departments within a university will be accredited by an organisation (for example, the Adam Smith Business School at the University of Glasgow is accredited by AACSB, EQUIS, and AMBA), whereas in other areas, some degrees are accredited by professional bodies/organisations. This means that they are aligned with the professional bodyís own qualifications and ensures that the education programme meets industry standards. Examples include the City Planning and Real Estate Msc degrees at the University of Glasgow are accredited by the [Royal Town Planning Institute (RTPI)](http://www.rtpi.org.uk https://www.rtpi.org.uk/become-a-planner/study-at-university/wales-scotland-and-northern-ireland/) and the [Royal Institute for Chartered Surveyors](https://www.rics.org https://www.rics.org/surveyor-careers/how-to-become-a-surveyor/university-surveying-courses) Other example include medicine and dentistry.
+
+
 
 Contributors: Joanna Stewart, Alison McCandlish
 
@@ -32,7 +34,7 @@ Tags: NA
 
 Long Definition: 
 
-Active learning is defined as ‚Äúany instructional method that engages students in the learning process‚Ä¶.[it] requires students to do meaningful activities and think about what they are doing‚Äù (prince, 2004, p.233, citing bonwell and eison 1991).
+Active learning is defined as ìany instructional method that engages students in the learning processÖ.[it] requires students to do meaningful activities and think about what they are doingî (prince, 2004, p.233, citing bonwell and eison 1991).
 
 
 
@@ -47,6 +49,8 @@ Active learning is defined as ‚Äúany instructional method that engages students 
 Deep Dive:
 
 Active learning can take place in any format, including online or in-person.  There is a large variety of methods and strategies that can be employed. e.g., team-based learning, think, pair, share and problem-based learning. Active learning supports various skills such as critical thinking, problem-solving, teamwork, communication and collaboration. Active learning facilitates deep learning vs superficial learning.
+
+
 
 Contributors: Vicki Dale
 
@@ -72,7 +76,9 @@ Ai-driven adaptive learning enhances student engagement and performance, scaffol
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: Vicki Dale
 
@@ -100,17 +106,19 @@ Deep Dive:
 
 While the goal is often to measure the attainment of learning objectives, something teachers forget to do is to align their assessment with those objectives or in other cases, the method of assessment can rely on a student needing to develop skills in communication that are assumed/not explicitly taught. The process of constructive alignment can help to align teaching methods and assessments with intended learning outcomes.
 
+
+
 Contributors: Helena Paterson
 
 Tags: hidden curriculum; pedagogy
  
-## Asynchronous
+## Asynchronous Learning
 
-<dfn>Occurring at different times. Asynchronous learning refers to students accessing materials at their own pace/in their own time  (for example, watching pre-recorded lectures or doing readings).</dfn>
+<dfn>Learning within the same module that occurs at different times for different students.</dfn>
 
 Long Definition: 
 
-
+Asynchronous learning refers to students accessing materials at their own pace/in their own time  (for example, watching pre-recorded lectures or doing readings).
 
 
 
@@ -124,7 +132,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: Joanna Stewart
 

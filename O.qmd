@@ -6,7 +6,7 @@
 
 Long Definition: 
 
-‚ÄúOne‚Äôs view of reality. Ontology includes one‚Äôs assumptions about the nature of reality and claims about what exists. In sotl, it is important to acknowledge the philosophical underpinnings that inform the research decisions.‚Äù (Webb & tierney)
+ìOneís view of reality. Ontology includes oneís assumptions about the nature of reality and claims about what exists. In sotl, it is important to acknowledge the philosophical underpinnings that inform the research decisions.î (Webb & tierney)
 
 
 
@@ -20,7 +20,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: Katharine Terrell
 
@@ -46,7 +48,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: NA
 
@@ -72,7 +76,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: NA
 
@@ -80,7 +86,7 @@ Tags: NA
  
 ## Outputs
 
-<dfn>NA</dfn>
+<dfn>Forms of dissemination.</dfn>
 
 Long Definition: 
 
@@ -98,8 +104,10 @@ Long Definition:
 
 Deep Dive:
 
-NA
+The outputs of a SOTL project might be blog posts, journal articles, posters and more.
 
-Contributors: NA
+
+
+Contributors: Katharine Terrell
 
 Tags: NA

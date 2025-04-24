@@ -20,7 +20,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: NA
 
@@ -32,9 +34,9 @@ Tags: NA
 
 Long Definition: 
 
-Deep dive: https://www.mentimeter.com/ is the main company website. https://www.mentimeter.com/education shows education use cases.
 
-The company describes the tool as a way to ‚Äúturn presentations into conversations with interactive polls that engage meetings and classrooms‚Äù
+
+
 
 
 
@@ -46,7 +48,9 @@ The company describes the tool as a way to ‚Äúturn presentations into conversati
 
 Deep Dive:
 
-NA
+https://www.mentimeter.com/ is the main company website. https://www.mentimeter.com/education shows education use cases.
+
+The company describes the tool as a way to ìTurn presentations into conversations with interactive polls that engage meetings and classroomsî
 
 Contributors: Alison McCandlish
 
@@ -72,7 +76,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: NA
 
@@ -98,7 +104,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: NA
 
@@ -124,7 +132,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: NA
 

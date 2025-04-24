@@ -1,7 +1,7 @@
 library(officer)
 library(tidyverse)
 
-fname <- "menti_to_word_docs/DefinitionsOfTerms.docx"
+fname <- "menti_to_word_docs/DefinitionsOfTerms_240425.docx"
 
 alldat <- read_docx(fname[1]) %>%
     docx_summary() %>% 

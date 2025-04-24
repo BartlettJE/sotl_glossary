@@ -20,7 +20,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: NA
 
@@ -46,7 +48,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: NA
 
@@ -60,7 +64,7 @@ Long Definition:
 
 The scholarship of learning and teaching is
 
-
+“The scholarship of teaching and learning is a rigorous, literature- informed, and peer-reviewed framework for investigating teaching and learning in higher education. It is methodologically flexible and open to many types of inquiries into pedagogical, curricular, disciplinary, and institutional contexts.” (Webb & tierney)
 
 
 
@@ -72,9 +76,11 @@ The scholarship of learning and teaching is
 
 Deep Dive:
 
-NA
 
-Contributors: NA
+
+
+
+Contributors: Katharine Terrell
 
 Tags: NA
  
@@ -98,7 +104,37 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
+
+Contributors: NA
+
+Tags: NA
+ 
+## Summative Assessment
+
+<dfn>NA</dfn>
+
+Long Definition: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deep Dive:
+
+
+
+
 
 Contributors: NA
 
@@ -124,7 +160,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: NA
 
@@ -132,11 +170,11 @@ Tags: NA
  
 ## Synchronous
 
-<dfn>NA</dfn>
+<dfn>Happening at the same time; live.</dfn>
 
 Long Definition: 
 
-
+Synchronous learning activities are those where the teacher and learner are interacting in real time. For example, lectures (online or face-to-face) are typically synchronous - the teacher facilitates learning activities “live” and students engage in the activities in that moment. Compare with “asynchronous”.
 
 
 
@@ -150,8 +188,10 @@ Long Definition:
 
 Deep Dive:
 
-NA
 
-Contributors: NA
+
+
+
+Contributors: Katharine Terrell
 
 Tags: NA

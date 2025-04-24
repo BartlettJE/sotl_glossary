@@ -20,7 +20,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: NA
 
@@ -46,7 +48,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: NA
 
@@ -72,7 +76,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: NA
 
@@ -98,7 +104,9 @@ Long Definition:
 
 Deep Dive:
 
-A career track at the University of Glasgow https://www.gla.ac.uk/media/Media_499574_smxx.pdf
+A career track at the University of Glasgow: [Guidelines for Learning, Teaching & Scholarship Track](https://www.gla.ac.uk/media/Media_499574_smxx.pdf)
+
+
 
 Contributors: Alison McCandlish
 

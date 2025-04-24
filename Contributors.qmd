@@ -14,4 +14,3 @@ contributors %>%
   select(Name = Fullname, Affiliation = `Affiliation 1`) %>% 
   knitr::kable()
 ```
-

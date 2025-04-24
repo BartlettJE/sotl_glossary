@@ -6,7 +6,7 @@
 
 Long Definition: 
 
-Under frequentist inferential statistics, the p-value represents the probability of your data (or more extreme), assuming that the null hypothesis is true. Informally, you can see it as a measure of surprise, where a small p-value means your data would be surprising under the null. Conversely, a large p-value means your data would not be surprising under the null. The idea behind this technique is helping you make decisions where you can either reject the null or retain the null. Given an alpha value (often .05 or 5%), rejecting the null means you conclude there is an effect, whereas retaining the null means you do not conclude there is an effect.
+Under frequentist inferential statistics, the p-value represents the probability of your data (or more extreme), assuming that the null hypothesis is true. Informally, you can see it as a measure of surprise, where a small p-value means your data would be surprising under the null hypothesis. Conversely, a large p-value means your data would not be surprising under the null hypothesis. The idea behind this technique is helping you make decisions where you can either reject the null or retain the null. Given an alpha value (often .05 or 5%), rejecting the null means you conclude there is an effect, whereas retaining the null means you do not conclude there is an effect.
 
 
 
@@ -20,9 +20,11 @@ Under frequentist inferential statistics, the p-value represents the probability
 
 Deep Dive:
 
-NA
 
-Contributors: James Bartlett; Phil McAleer
+
+
+
+Contributors: James Bartlett; Phil McAleer; Helena Paterson
 
 Tags: Statistics
  
@@ -46,7 +48,9 @@ Students cramming for a test may adopt a superficial approach to learning where 
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: Vicki Dale, Steve Draper
 
@@ -54,7 +58,7 @@ Tags: NA
  
 ## Pedagogy
 
-<dfn>NA</dfn>
+<dfn>“The art and science of teaching, pedagogy is the methods of lesson, course, and program delivery.” (Webb & tierney)</dfn>
 
 Long Definition: 
 
@@ -72,9 +76,11 @@ Long Definition:
 
 Deep Dive:
 
-NA
 
-Contributors: NA
+
+
+
+Contributors: Katharine Terrell
 
 Tags: NA
  
@@ -98,7 +104,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: NA
 
@@ -124,7 +132,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: NA
 
@@ -150,7 +160,9 @@ Long Definition:
 
 Deep Dive:
 
-NA
+
+
+
 
 Contributors: NA
 
