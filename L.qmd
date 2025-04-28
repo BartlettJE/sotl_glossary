@@ -4,7 +4,7 @@
 
 <dfn>NA</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -16,15 +16,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -32,7 +28,7 @@ Tags: NA
 
 <dfn>NA</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -44,15 +40,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -60,7 +52,7 @@ Tags: NA
 
 <dfn>NA</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -72,15 +64,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -88,7 +76,7 @@ Tags: NA
 
 <dfn>Learning, teaching and scholarship</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -100,14 +88,10 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
-A career track at the University of Glasgow: [Guidelines for Learning, Teaching & Scholarship Track](https://www.gla.ac.uk/media/Media_499574_smxx.pdf)
+**Deep Dive:** A career track at the University of Glasgow: [Guidelines for Learning, Teaching & Scholarship Track](https://www.gla.ac.uk/media/Media_499574_smxx.pdf)
 
 
 
-Contributors: Alison McCandlish
+**Contributors:** Alison McCandlish
 
 Tags: NA

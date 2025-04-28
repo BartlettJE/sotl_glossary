@@ -4,9 +4,7 @@
 
 <dfn>Development through collaboration</dfn>
 
-Long Definition: 
-
-In an education setting this term most likely refers to staff and students working together to develop novel teaching and assessment approaches
+**Long Definition:** In an education setting this term most likely refers to staff and students working together to develop novel teaching and assessment approaches
 
 
 
@@ -18,13 +16,11 @@ In an education setting this term most likely refers to staff and students worki
 
 
 
-Deep Dive:
-
-The University of Glasgow Learning and Teaching Conference 2025 was on the theme of Co-Creation and Collaboration and the programme can be viewed here: [https://www.gla.ac.uk/myglasgow/add/events/pastconferencewebpages/annuallearningandteachingconference/](https://www.gla.ac.uk/myglasgow/add/events/pastconferencewebpages/annuallearningandteachingconference/). In addition, a series of presentations on the theme of Co-Creation from the conference can be found on the associated Youtube channel here: [https://www.youtube.com/playlist?list=PLUtE5AlmlvhVBabCbLiGVC-8CyTEHOjRg](https://www.youtube.com/playlist?list=PLUtE5AlmlvhVBabCbLiGVC-8CyTEHOjRg)
+**Deep Dive:** The University of Glasgow Learning and Teaching Conference 2025 was on the theme of Co-Creation and Collaboration and the programme can be viewed here: [https://www.gla.ac.uk/myglasgow/add/events/pastconferencewebpages/annuallearningandteachingconference/](https://www.gla.ac.uk/myglasgow/add/events/pastconferencewebpages/annuallearningandteachingconference/). In addition, a series of presentations on the theme of Co-Creation from the conference can be found on the associated Youtube channel here: [https://www.youtube.com/playlist?list=PLUtE5AlmlvhVBabCbLiGVC-8CyTEHOjRg](https://www.youtube.com/playlist?list=PLUtE5AlmlvhVBabCbLiGVC-8CyTEHOjRg)
 
 
 
-Contributors: Phil McAleer
+**Contributors:** Phil McAleer
 
 Tags: NA
  
@@ -32,7 +28,7 @@ Tags: NA
 
 <dfn>An abbreviation for collaborative online international learning</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -44,15 +40,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -60,7 +52,7 @@ Tags: NA
 
 <dfn>Voluntary agreement to take part in an event</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -72,15 +64,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -88,9 +76,7 @@ Tags: NA
 
 <dfn>In experimental design a group that did not experience an intervention</dfn>
 
-Long Definition: 
-
-A group that represented the baseline or default state
+**Long Definition:** A group that represented the baseline or default state
 
 
 
@@ -102,12 +88,10 @@ A group that represented the baseline or default state
 
 
 
-Deep Dive:
+**Deep Dive:** 
 
 
 
-
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA

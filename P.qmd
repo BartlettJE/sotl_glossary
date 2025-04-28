@@ -4,9 +4,7 @@
 
 <dfn>The probability of your data (or more extreme), assuming the null hypothesis is true.</dfn>
 
-Long Definition: 
-
-Under frequentist inferential statistics, the p-value represents the probability of your data (or more extreme), assuming that the null hypothesis is true. Informally, you can see it as a measure of surprise, where a small p-value means your data would be surprising under the null hypothesis. Conversely, a large p-value means your data would not be surprising under the null hypothesis. The idea behind this technique is helping you make decisions where you can either reject the null or retain the null. Given an alpha value (often .05 or 5%), rejecting the null means you conclude there is an effect, whereas retaining the null means you do not conclude there is an effect.
+**Long Definition:** Under frequentist inferential statistics, the p-value represents the probability of your data (or more extreme), assuming that the null hypothesis is true. Informally, you can see it as a measure of surprise, where a small p-value means your data would be surprising under the null hypothesis. Conversely, a large p-value means your data would not be surprising under the null hypothesis. The idea behind this technique is helping you make decisions where you can either reject the null or retain the null. Given an alpha value (often .05 or 5%), rejecting the null means you conclude there is an effect, whereas retaining the null means you do not conclude there is an effect.
 
 
 
@@ -18,13 +16,11 @@ Under frequentist inferential statistics, the p-value represents the probability
 
 
 
-Deep Dive:
+**Deep Dive:** 
 
 
 
-
-
-Contributors: James Bartlett; Phil McAleer; Helena Paterson
+**Contributors:** James Bartlett; Phil McAleer; Helena Paterson
 
 Tags: Statistics
  
@@ -32,9 +28,7 @@ Tags: Statistics
 
 <dfn>In contrast to active learning, this term is associated with students being exposed to a predominantly an information transmission approach where they have no agency or investment in their learning.</dfn>
 
-Long Definition: 
-
-Students cramming for a test may adopt a superficial approach to learning where the goal or motivation is to regurgitate with the purpose of passing an exam.
+**Long Definition:** Students cramming for a test may adopt a superficial approach to learning where the goal or motivation is to regurgitate with the purpose of passing an exam.
 
 
 
@@ -46,13 +40,11 @@ Students cramming for a test may adopt a superficial approach to learning where 
 
 
 
-Deep Dive:
+**Deep Dive:** 
 
 
 
-
-
-Contributors: Vicki Dale, Steve Draper
+**Contributors:** Vicki Dale, Steve Draper
 
 Tags: NA
  
@@ -60,7 +52,7 @@ Tags: NA
 
 <dfn>“The art and science of teaching, pedagogy is the methods of lesson, course, and program delivery.” (Webb & tierney)</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -72,15 +64,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: Katharine Terrell
+**Contributors:** Katharine Terrell
 
 Tags: NA
  
@@ -88,7 +76,7 @@ Tags: NA
 
 <dfn>NA</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -100,15 +88,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -116,7 +100,7 @@ Tags: NA
 
 <dfn>NA</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -128,15 +112,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -144,7 +124,7 @@ Tags: NA
 
 <dfn>NA</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -156,14 +136,10 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA

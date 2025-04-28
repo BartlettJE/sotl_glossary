@@ -4,7 +4,7 @@
 
 <dfn>NA</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -16,15 +16,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -32,7 +28,7 @@ Tags: NA
 
 <dfn>An abbreviation for the term equality, diversity and inclusion</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -44,15 +40,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -60,7 +52,7 @@ Tags: NA
 
 <dfn>A measure of the outcome of a study.</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -72,15 +64,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -88,9 +76,7 @@ Tags: NA
 
 <dfn>Epistemology is the study of the nature of knowledge, how it is defined, what can be known, and what are its limits.</dfn>
 
-Long Definition: 
-
-Epistemology is the study of the nature of knowledge, how it is defined, what can be known, and what are its limits.
+**Long Definition:** Epistemology is the study of the nature of knowledge, how it is defined, what can be known, and what are its limits.
 
 Guba, e. S. and lincoln, y. S. (1994) ‘competing paradigms in qualitative research’, in denzin, n.k. & Lincoln, y.s. (eds.) Handbook of qualitative research. 2 ed. Thousand oaks, sage.
 
@@ -102,13 +88,11 @@ Stone, l. 2008. Epistemology. In given, l. (ed.) The sage encyclopedia of qualit
 
 “Defined narrowly, epistemology is the study of knowledge and justified belief. As the study of knowledge, epistemology is concerned with the following questions. What are the necessary and sufficient conditions of knowledge? What are its sources? What is its structure, and what are its limits? As the study of justified belief, epistemology aims to answer questions such as how we are to understand the concept of justification? What makes justified beliefs justified? Is justification internal or external to one’s own mind? Understood more broadly, epistemology is about issues having to do with the creation and dissemination of knowledge in particular areas of inquiry.
 
-Deep Dive:
+**Deep Dive:** 
 
 
 
-
-
-Contributors: Nic Kipar
+**Contributors:** Nic Kipar
 
 Tags: Methods
  
@@ -116,7 +100,7 @@ Tags: Methods
 
 <dfn>NA</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -128,15 +112,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -144,9 +124,7 @@ Tags: NA
 
 <dfn>Experiential learning is when students take part in hands-on activities which help embed skills and understanding. Students typically learn by actively engaging and reflecting upon real-world activities.</dfn>
 
-Long Definition: 
-
-Experiential learning allows students to actively engage with a topic. While hands-on learning is considered part of this, it is important that students also reflect and think critically about their experience. Hands-on activities support deep learning and tend to be an engaging method of learning.
+**Long Definition:** Experiential learning allows students to actively engage with a topic. While hands-on learning is considered part of this, it is important that students also reflect and think critically about their experience. Hands-on activities support deep learning and tend to be an engaging method of learning.
 
 
 
@@ -158,12 +136,10 @@ Experiential learning allows students to actively engage with a topic. While han
 
 
 
-Deep Dive:
+**Deep Dive:** 
 
 
 
-
-
-Contributors: Susan Lindsay
+**Contributors:** Susan Lindsay
 
 Tags: NA

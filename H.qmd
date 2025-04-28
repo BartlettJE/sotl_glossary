@@ -4,7 +4,7 @@
 
 <dfn>The unwritten knowledge of the workings of an institution generally learned through experience</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -16,14 +16,10 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: Phil McAleer
+**Contributors:** Phil McAleer
 
 Tags: NA

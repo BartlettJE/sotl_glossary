@@ -4,7 +4,7 @@
 
 <dfn>NA</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -16,15 +16,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -32,7 +28,7 @@ Tags: NA
 
 <dfn>NA</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -44,15 +40,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -60,9 +52,7 @@ Tags: NA
 
 <dfn>An abbreviation for the phrase scholarship of learning and teaching</dfn>
 
-Long Definition: 
-
-The scholarship of learning and teaching is
+**Long Definition:** The scholarship of learning and teaching is
 
 “The scholarship of teaching and learning is a rigorous, literature- informed, and peer-reviewed framework for investigating teaching and learning in higher education. It is methodologically flexible and open to many types of inquiries into pedagogical, curricular, disciplinary, and institutional contexts.” (Webb & tierney)
 
@@ -74,13 +64,11 @@ The scholarship of learning and teaching is
 
 
 
-Deep Dive:
+**Deep Dive:** 
 
 
 
-
-
-Contributors: Katharine Terrell
+**Contributors:** Katharine Terrell
 
 Tags: NA
  
@@ -88,7 +76,7 @@ Tags: NA
 
 <dfn>NA</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -100,15 +88,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -116,7 +100,7 @@ Tags: NA
 
 <dfn>NA</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -128,15 +112,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -144,7 +124,7 @@ Tags: NA
 
 <dfn>NA</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -156,15 +136,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -172,9 +148,7 @@ Tags: NA
 
 <dfn>Happening at the same time; live.</dfn>
 
-Long Definition: 
-
-Synchronous learning activities are those where the teacher and learner are interacting in real time. For example, lectures (online or face-to-face) are typically synchronous - the teacher facilitates learning activities “live” and students engage in the activities in that moment. Compare with “asynchronous”.
+**Long Definition:** Synchronous learning activities are those where the teacher and learner are interacting in real time. For example, lectures (online or face-to-face) are typically synchronous - the teacher facilitates learning activities “live” and students engage in the activities in that moment. Compare with “asynchronous”.
 
 
 
@@ -186,12 +160,10 @@ Synchronous learning activities are those where the teacher and learner are inte
 
 
 
-Deep Dive:
+**Deep Dive:** 
 
 
 
-
-
-Contributors: Katharine Terrell
+**Contributors:** Katharine Terrell
 
 Tags: NA

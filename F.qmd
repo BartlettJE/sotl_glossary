@@ -4,9 +4,7 @@
 
 <dfn>Information about reactions to a person’s contribution to a task</dfn>
 
-Long Definition: 
-
-Feedback in educational settings
+**Long Definition:** Feedback in educational settings
 
 
 
@@ -18,13 +16,11 @@ Feedback in educational settings
 
 
 
-Deep Dive:
+**Deep Dive:** 
 
 
 
-
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -32,7 +28,7 @@ Tags: NA
 
 <dfn>NA</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -44,14 +40,10 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA

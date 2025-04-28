@@ -24,15 +24,11 @@ make_entry <- function(dat){
 
 <dfn>{dat$ShortDef}</dfn>
 
-Long Definition: 
+**Long Definition:** {dat$LongDef}
 
-{dat$LongDef}
+**Deep Dive:** {dat$DeepDive}
 
-Deep Dive:
-
-{dat$DeepDive}
-
-Contributors: {dat$Contributors}
+**Contributors:** {dat$Contributors}
 
 Tags: {dat$Tags}
 

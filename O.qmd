@@ -4,9 +4,7 @@
 
 <dfn>NA</dfn>
 
-Long Definition: 
-
-“One’s view of reality. Ontology includes one’s assumptions about the nature of reality and claims about what exists. In sotl, it is important to acknowledge the philosophical underpinnings that inform the research decisions.” (Webb & tierney)
+**Long Definition:** “One’s view of reality. Ontology includes one’s assumptions about the nature of reality and claims about what exists. In sotl, it is important to acknowledge the philosophical underpinnings that inform the research decisions.” (Webb & tierney)
 
 
 
@@ -18,13 +16,11 @@ Long Definition:
 
 
 
-Deep Dive:
+**Deep Dive:** 
 
 
 
-
-
-Contributors: Katharine Terrell
+**Contributors:** Katharine Terrell
 
 Tags: NA
  
@@ -32,7 +28,7 @@ Tags: NA
 
 <dfn>NA</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -44,15 +40,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -60,7 +52,7 @@ Tags: NA
 
 <dfn>NA</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -72,15 +64,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -88,7 +76,7 @@ Tags: NA
 
 <dfn>Forms of dissemination.</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -100,14 +88,10 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
-The outputs of a SOTL project might be blog posts, journal articles, posters and more.
+**Deep Dive:** The outputs of a SOTL project might be blog posts, journal articles, posters and more.
 
 
 
-Contributors: Katharine Terrell
+**Contributors:** Katharine Terrell
 
 Tags: NA

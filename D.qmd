@@ -4,7 +4,7 @@
 
 <dfn>The characteristics of a population. (often described with descriptive statistics). With regard to students, key demographics include gender, age, socio-economic background, country of origin, ethnicity, employment status, and caring responsibilities.</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -16,15 +16,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: Joanna Stewart
+**Contributors:** Joanna Stewart
 
 Tags: NA
  
@@ -32,7 +28,7 @@ Tags: NA
 
 <dfn>NA</dfn>
 
-Long Definition: 
+**Long Definition:** 
 
 
 
@@ -44,15 +40,11 @@ Long Definition:
 
 
 
-
-
-Deep Dive:
-
+**Deep Dive:** 
 
 
 
-
-Contributors: NA
+**Contributors:** NA
 
 Tags: NA
  
@@ -60,9 +52,7 @@ Tags: NA
 
 <dfn>Making sotl findings public.</dfn>
 
-Long Definition: 
-
-Dissemination involves sharing our practice as widely as possible
+**Long Definition:** Dissemination involves sharing our practice as widely as possible
 
 
 
@@ -74,12 +64,10 @@ Dissemination involves sharing our practice as widely as possible
 
 
 
-Deep Dive:
+**Deep Dive:** 
 
 
 
-
-
-Contributors: Eilidh Soussi
+**Contributors:** Eilidh Soussi
 
 Tags: NA

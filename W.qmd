@@ -4,9 +4,7 @@
 
 <dfn>Work-integrated learning (wil) is a term used to describe different teaching strategies that integrate the theory of learning with the practice of work. This can take many forms such as work placements, fieldwork, and external stakeholder/industry supported projects or assessments.</dfn>
 
-Long Definition: 
-
-Wil aims to foster better employability since students take part in activities directly related to the workplace. It helps students to put their learning into context and allows them to apply taught theory. Authentic, real-world assessment is the foundation of wil which provides students feedback and experience more applicable to their future career. It is often accredited or supported by external stakeholders and can range from a single course to an entire programme (ball & manwaring, 2010). Wil helps equip students with skills employer’s value.
+**Long Definition:** Wil aims to foster better employability since students take part in activities directly related to the workplace. It helps students to put their learning into context and allows them to apply taught theory. Authentic, real-world assessment is the foundation of wil which provides students feedback and experience more applicable to their future career. It is often accredited or supported by external stakeholders and can range from a single course to an entire programme (ball & manwaring, 2010). Wil helps equip students with skills employer’s value.
 
 
 
@@ -18,12 +16,10 @@ Wil aims to foster better employability since students take part in activities d
 
 
 
-Deep Dive:
+**Deep Dive:** 
 
 
 
-
-
-Contributors: Susan Lindsay
+**Contributors:** Susan Lindsay
 
 Tags: WIL
