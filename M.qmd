@@ -2,7 +2,7 @@
  
 ## Mann-Whitney U test
 
-<dfn>NA</dfn>
+<dfn>A non-parametric inferential statistics test for comparing the difference between two groups.</dfn>
 
 **Long Definition:** 
 

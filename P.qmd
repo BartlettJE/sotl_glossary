@@ -1,5 +1,29 @@
 #  P 
  
+## Parametric
+
+<dfn>NA</dfn>
+
+**Long Definition:** 
+
+
+
+
+
+
+
+
+
+
+
+**Deep Dive:** 
+
+
+
+**Contributors:** NA
+
+**Tags:** NA
+ 
 ## Passive Learning
 
 <dfn>In contrast to active learning, this term is associated with students being exposed to a predominantly an information transmission approach where they have no agency or investment in their learning.</dfn>
