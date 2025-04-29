@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Scholarship of Teaching and Learning Compendium",
     "section": "",
-    "text": "Overview\nWith the expanding nature of scholarship in Higher Education, having an agreed source of information to work from is helpful in facilitating communication and integration across diverse teams and disciplines who engage in scholarship. This glossary was generated with that idea in mind as part of the University of Glasgow Learning and Teaching Conference 2025 and as such contains a crowd-sourced collection of terms used in the Scholarship of Teaching and Learning (SoTL).\nThis is a living document of an online, open access, collaborative compendium and will be updated at semi-regular intervals. Please feel free to contact the main editorial team of Drs Helena Paterson, Phil McAleer and James Bartlett if you wish to contribute or post as an issue on github.\nLast edited: 2025-04-28",
+    "text": "Overview\nWith the expanding nature of scholarship in Higher Education, having an agreed source of information to work from is helpful in facilitating communication and integration across diverse teams and disciplines who engage in scholarship. This glossary was generated with that idea in mind as part of the University of Glasgow Learning and Teaching Conference 2025 and as such contains a crowd-sourced collection of terms used in the Scholarship of Teaching and Learning (SoTL).\nThis is a living document of an online, open access, collaborative compendium and will be updated at semi-regular intervals. Please feel free to contact the main editorial team of Drs Helena Paterson, Phil McAleer and James Bartlett if you wish to contribute or post as an issue on github.\nLast edited: 2025-04-29",
     "crumbs": [
       "Overview"
     ]
@@ -24,6 +24,16 @@
     "href": "A.html",
     "title": "A",
     "section": "",
+    "text": "AI-driven Adaptive Learning\nAi-driven systems provide a more personalised learning experience which cater to diverse learning preferences/requirements.\nLong Definition: Ai-driven adaptive learning enhances student engagement and performance, scaffolding individual learner pathways in real-time based on performance and preference. It requires technology to diagnose a starting point for learners in terms of their existing knowledge and skills. Subsequently upskilling them and continually monitoring their performance. The systems provide immediate feedback to the students, which informs their subsequent learning tasks.\nDeep Dive:\nContributors: Vicki Dale\nTags: NA",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>A</span>"
+    ]
+  },
+  {
+    "objectID": "A.html#accreditation",
+    "href": "A.html#accreditation",
+    "title": "A",
+    "section": "Accreditation",
     "text": "Accreditation\nA quality assurance and enhancement mechanism for programmes/courses by a relevant institution/external professional body, to ensure standards.\nLong Definition:\nDeep Dive: Accreditation can mean different things/be applied differently in different academic disciplines. The QAA website gives more information about the general degree awarding powers that universities hold. Some schools/departments within a university will be accredited by an organisation (for example, the Adam Smith Business School at the University of Glasgow is accredited by AACSB, EQUIS, and AMBA), whereas in other areas, some degrees are accredited by professional bodies/organisations. This means that they are aligned with the professional body�s own qualifications and ensures that the education programme meets industry standards. Examples include the City Planning and Real Estate Msc degrees at the University of Glasgow are accredited by the Royal Town Planning Institute (RTPI) and the Royal Institute for Chartered Surveyors Other example include medicine and dentistry.\nContributors: Joanna Stewart, Alison McCandlish\nTags: NA",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>A</span>"
@@ -35,16 +45,6 @@
     "title": "A",
     "section": "Active Learning",
     "text": "Active Learning\nLearning by doing and reflection; this could be individual or collaborative.\nLong Definition: Active learning is defined as �any instructional method that engages students in the learning process�.[it] requires students to do meaningful activities and think about what they are doing� (prince, 2004, p.233, citing bonwell and eison 1991).\nDeep Dive: Active learning can take place in any format, including online or in-person. There is a large variety of methods and strategies that can be employed. e.g., team-based learning, think, pair, share and problem-based learning. Active learning supports various skills such as critical thinking, problem-solving, teamwork, communication and collaboration. Active learning facilitates deep learning vs superficial learning.\nContributors: Vicki Dale\nTags: NA",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>A</span>"
-    ]
-  },
-  {
-    "objectID": "A.html#ai-driven-adaptive-learning",
-    "href": "A.html#ai-driven-adaptive-learning",
-    "title": "A",
-    "section": "Ai-Driven Adaptive Learning",
-    "text": "Ai-Driven Adaptive Learning\nAi-driven systems provide a more personalised learning experience which cater to diverse learning preferences/requirements.\nLong Definition: Ai-driven adaptive learning enhances student engagement and performance, scaffolding individual learner pathways in real-time based on performance and preference. It requires technology to diagnose a starting point for learners in terms of their existing knowledge and skills. Subsequently upskilling them and continually monitoring their performance. The systems provide immediate feedback to the students, which informs their subsequent learning tasks.\nDeep Dive:\nContributors: Vicki Dale\nTags: NA",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>A</span>"
     ]
@@ -74,17 +74,17 @@
     "href": "C.html",
     "title": "C",
     "section": "",
-    "text": "Co-Creation\nDevelopment through collaboration\nLong Definition: In an education setting this term most likely refers to staff and students working together to develop novel teaching and assessment approaches\nDeep Dive: The University of Glasgow Learning and Teaching Conference 2025 was on the theme of Co-Creation and Collaboration and the programme can be viewed here: https://www.gla.ac.uk/myglasgow/add/events/pastconferencewebpages/annuallearningandteachingconference/. In addition, a series of presentations on the theme of Co-Creation from the conference can be found on the associated Youtube channel here: https://www.youtube.com/playlist?list=PLUtE5AlmlvhVBabCbLiGVC-8CyTEHOjRg\nContributors: Phil McAleer\nTags: NA",
+    "text": "COIL\nAn abbreviation for collaborative online international learning\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>C</span>"
     ]
   },
   {
-    "objectID": "C.html#coil",
-    "href": "C.html#coil",
+    "objectID": "C.html#co-creation",
+    "href": "C.html#co-creation",
     "title": "C",
-    "section": "Coil",
-    "text": "Coil\nAn abbreviation for collaborative online international learning\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
+    "section": "Co-Creation",
+    "text": "Co-Creation\nDevelopment through collaboration\nLong Definition: In an education setting this term most likely refers to staff and students working together to develop novel teaching and assessment approaches\nDeep Dive: The University of Glasgow Learning and Teaching Conference 2025 was on the theme of Co-Creation and Collaboration and the programme can be viewed here: https://www.gla.ac.uk/myglasgow/add/events/pastconferencewebpages/annuallearningandteachingconference/. In addition, a series of presentations on the theme of Co-Creation from the conference can be found on the associated Youtube channel here: https://www.youtube.com/playlist?list=PLUtE5AlmlvhVBabCbLiGVC-8CyTEHOjRg\nContributors: Phil McAleer\nTags: NA",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>C</span>"
     ]
@@ -144,17 +144,17 @@
     "href": "E.html",
     "title": "E",
     "section": "",
-    "text": "Ecopedagogy\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
+    "text": "EDI\nAn abbreviation for the term equality, diversity and inclusion\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>E</span>"
     ]
   },
   {
-    "objectID": "E.html#edi",
-    "href": "E.html#edi",
+    "objectID": "E.html#ecopedagogy",
+    "href": "E.html#ecopedagogy",
     "title": "E",
-    "section": "Edi",
-    "text": "Edi\nAn abbreviation for the term equality, diversity and inclusion\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
+    "section": "Ecopedagogy",
+    "text": "Ecopedagogy\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>E</span>"
     ]
@@ -264,6 +264,26 @@
     "href": "L.html",
     "title": "L",
     "section": "",
+    "text": "LTI\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>L</span>"
+    ]
+  },
+  {
+    "objectID": "L.html#lts",
+    "href": "L.html#lts",
+    "title": "L",
+    "section": "LTS",
+    "text": "LTS\nLearning, teaching and scholarship\nLong Definition:\nDeep Dive: A career track at the University of Glasgow: Guidelines for Learning, Teaching & Scholarship Track\nContributors: Alison McCandlish\nTags: NA",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>L</span>"
+    ]
+  },
+  {
+    "objectID": "L.html#learning",
+    "href": "L.html#learning",
+    "title": "L",
+    "section": "Learning",
     "text": "Learning\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>L</span>"
@@ -280,31 +300,11 @@
     ]
   },
   {
-    "objectID": "L.html#lti",
-    "href": "L.html#lti",
-    "title": "L",
-    "section": "Lti",
-    "text": "Lti\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
-    "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>L</span>"
-    ]
-  },
-  {
-    "objectID": "L.html#lts",
-    "href": "L.html#lts",
-    "title": "L",
-    "section": "Lts",
-    "text": "Lts\nLearning, teaching and scholarship\nLong Definition:\nDeep Dive: A career track at the University of Glasgow: Guidelines for Learning, Teaching & Scholarship Track\nContributors: Alison McCandlish\nTags: NA",
-    "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>L</span>"
-    ]
-  },
-  {
     "objectID": "M.html",
     "href": "M.html",
     "title": "M",
     "section": "",
-    "text": "Mann-Whitney U Test\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
+    "text": "Mann-Whitney U test\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>M</span>"
     ]
@@ -394,16 +394,6 @@
     "href": "P.html",
     "title": "P",
     "section": "",
-    "text": "P-Value\nThe probability of your data (or more extreme), assuming the null hypothesis is true.\nLong Definition: Under frequentist inferential statistics, the p-value represents the probability of your data (or more extreme), assuming that the null hypothesis is true. Informally, you can see it as a measure of surprise, where a small p-value means your data would be surprising under the null hypothesis. Conversely, a large p-value means your data would not be surprising under the null hypothesis. The idea behind this technique is helping you make decisions where you can either reject the null or retain the null. Given an alpha value (often .05 or 5%), rejecting the null means you conclude there is an effect, whereas retaining the null means you do not conclude there is an effect.\nDeep Dive:\nContributors: James Bartlett; Phil McAleer; Helena Paterson\nTags: Statistics",
-    "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>P</span>"
-    ]
-  },
-  {
-    "objectID": "P.html#passive-learning",
-    "href": "P.html#passive-learning",
-    "title": "P",
-    "section": "Passive Learning",
     "text": "Passive Learning\nIn contrast to active learning, this term is associated with students being exposed to a predominantly an information transmission approach where they have no agency or investment in their learning.\nLong Definition: Students cramming for a test may adopt a superficial approach to learning where the goal or motivation is to regurgitate with the purpose of passing an exam.\nDeep Dive:\nContributors: Vicki Dale, Steve Draper\nTags: NA",
     "crumbs": [
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>P</span>"
@@ -445,6 +435,16 @@
     "title": "P",
     "section": "Problem-Based Learning",
     "text": "Problem-Based Learning\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>P</span>"
+    ]
+  },
+  {
+    "objectID": "P.html#p-value",
+    "href": "P.html#p-value",
+    "title": "P",
+    "section": "p-value",
+    "text": "p-value\nThe probability of your data (or more extreme), assuming the null hypothesis is true.\nLong Definition: Under frequentist inferential statistics, the p-value represents the probability of your data (or more extreme), assuming that the null hypothesis is true. Informally, you can see it as a measure of surprise, where a small p-value means your data would be surprising under the null hypothesis. Conversely, a large p-value means your data would not be surprising under the null hypothesis. The idea behind this technique is helping you make decisions where you can either reject the null or retain the null. Given an alpha value (often .05 or 5%), rejecting the null means you conclude there is an effect, whereas retaining the null means you do not conclude there is an effect.\nDeep Dive:\nContributors: James Bartlett; Phil McAleer; Helena Paterson\nTags: Statistics",
     "crumbs": [
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>P</span>"
     ]
@@ -543,8 +543,8 @@
     "objectID": "S.html#sotl",
     "href": "S.html#sotl",
     "title": "S",
-    "section": "Sotl",
-    "text": "Sotl\nAn abbreviation for the phrase scholarship of learning and teaching\nLong Definition: The scholarship of learning and teaching is\n�The scholarship of teaching and learning is a rigorous, literature- informed, and peer-reviewed framework for investigating teaching and learning in higher education. It is methodologically flexible and open to many types of inquiries into pedagogical, curricular, disciplinary, and institutional contexts.� (Webb & tierney)\nDeep Dive:\nContributors: Katharine Terrell\nTags: NA",
+    "section": "SoTL",
+    "text": "SoTL\nAn abbreviation for the phrase scholarship of learning and teaching\nLong Definition: The scholarship of learning and teaching is\n�The scholarship of teaching and learning is a rigorous, literature- informed, and peer-reviewed framework for investigating teaching and learning in higher education. It is methodologically flexible and open to many types of inquiries into pedagogical, curricular, disciplinary, and institutional contexts.� (Webb & tierney)\nDeep Dive:\nContributors: Katharine Terrell\nTags: NA",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>S</span>"
     ]
@@ -614,17 +614,17 @@
     "href": "V.html",
     "title": "V",
     "section": "",
-    "text": "Virtual Reality\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
+    "text": "VLE\nVirtual learning environment\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>V</span>"
     ]
   },
   {
-    "objectID": "V.html#vle",
-    "href": "V.html#vle",
+    "objectID": "V.html#virtual-reality",
+    "href": "V.html#virtual-reality",
     "title": "V",
-    "section": "Vle",
-    "text": "Vle\nVirtual learning environment\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
+    "section": "Virtual Reality",
+    "text": "Virtual Reality\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>V</span>"
     ]
@@ -644,7 +644,7 @@
     "href": "Allterms.html",
     "title": "Index",
     "section": "",
-    "text": "The following is a list of all terms in the compendium that have at least a short definition associated with them.\n\n\n\n\n\n\nAccreditation\n\n\nActive Learning\n\n\nAi-Driven Adaptive Learning\n\n\n\n\nAssessment\n\n\nAsynchronous Learning\n\n\nCo-Creation\n\n\n\n\nCoil\n\n\nConsent\n\n\nControl Groups\n\n\n\n\nDemographics\n\n\nDissemination\n\n\nEdi\n\n\n\n\nEffect Sizes\n\n\nEpistemology\n\n\nExperiential Learning\n\n\n\n\nFeedback\n\n\nHidden Curriculum\n\n\nLts\n\n\n\n\nMentimeter\n\n\nMoodle\n\n\nOutputs\n\n\n\n\nP-Value\n\n\nPassive Learning\n\n\nPedagogy\n\n\n\n\nRussell Group\n\n\nSotl\n\n\nSynchronous\n\n\n\n\nVle\n\n\nWork-Integrated Learning\n\n\n\nThe following is a list of all terms in the compendium that do not yet have definition associated with them.\n\n\n\n\n\n\nDigital Credentials\n\n\nEcopedagogy\n\n\nEthics\n\n\n\n\nFormative Assessment\n\n\nGamification\n\n\nGlasgow Specific Terms\n\n\n\n\nKnowledge Exchange\n\n\nLearning\n\n\nLearning Analytics\n\n\n\n\nLti\n\n\nMann-Whitney U Test\n\n\nMixed Methods\n\n\n\n\nMultidisciplinary\n\n\nOntology\n\n\nOpen Science\n\n\n\n\nOpen Source\n\n\nPeer Assessment\n\n\nPersonalised Learning\n\n\n\n\nProblem-Based Learning\n\n\nQualitative\n\n\nQuantitative\n\n\n\n\nRed Brick University\n\n\nReflective Practice\n\n\nRegression\n\n\n\n\nResearch-Led Teaching\n\n\nSample Size\n\n\nScholarship\n\n\n\n\nStudent Voice\n\n\nSummative Assessment\n\n\nSustainable\n\n\n\n\nTeaching\n\n\nTeam Teaching\n\n\nVirtual Reality",
+    "text": "The following is a list of all terms in the compendium that have at least a short definition associated with them.\n\n\n\n\n\n\nAccreditation\n\n\nActive Learning\n\n\nAI-driven Adaptive Learning\n\n\n\n\nAssessment\n\n\nAsynchronous Learning\n\n\nCo-Creation\n\n\n\n\nCOIL\n\n\nConsent\n\n\nControl Groups\n\n\n\n\nDemographics\n\n\nDissemination\n\n\nEDI\n\n\n\n\nEffect Sizes\n\n\nEpistemology\n\n\nExperiential Learning\n\n\n\n\nFeedback\n\n\nHidden Curriculum\n\n\nLTS\n\n\n\n\nMentimeter\n\n\nMoodle\n\n\nOutputs\n\n\n\n\np-value\n\n\nPassive Learning\n\n\nPedagogy\n\n\n\n\nRussell Group\n\n\nSoTL\n\n\nSynchronous\n\n\n\n\nVLE\n\n\nWork-Integrated Learning\n\n\n\nThe following is a list of all terms in the compendium that do not yet have definition associated with them.\n\n\n\n\n\n\nDigital Credentials\n\n\nEcopedagogy\n\n\nEthics\n\n\n\n\nFormative Assessment\n\n\nGamification\n\n\nGlasgow Specific Terms\n\n\n\n\nKnowledge Exchange\n\n\nLearning\n\n\nLearning Analytics\n\n\n\n\nLTI\n\n\nMann-Whitney U test\n\n\nMixed Methods\n\n\n\n\nMultidisciplinary\n\n\nOntology\n\n\nOpen Science\n\n\n\n\nOpen Source\n\n\nPeer Assessment\n\n\nPersonalised Learning\n\n\n\n\nProblem-Based Learning\n\n\nQualitative\n\n\nQuantitative\n\n\n\n\nRed Brick University\n\n\nReflective Practice\n\n\nRegression\n\n\n\n\nResearch-Led Teaching\n\n\nSample Size\n\n\nScholarship\n\n\n\n\nStudent Voice\n\n\nSummative Assessment\n\n\nSustainable\n\n\n\n\nTeaching\n\n\nTeam Teaching\n\n\nVirtual Reality",
     "crumbs": [
       "<span class='chapter-number'>20</span>  <span class='chapter-title'>Index</span>"
     ]

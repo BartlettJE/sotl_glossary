@@ -1,5 +1,29 @@
 #  C 
  
+## COIL
+
+<dfn>An abbreviation for collaborative online international learning</dfn>
+
+**Long Definition:** 
+
+
+
+
+
+
+
+
+
+
+
+**Deep Dive:** 
+
+
+
+**Contributors:** NA
+
+**Tags:** NA
+ 
 ## Co-Creation
 
 <dfn>Development through collaboration</dfn>
@@ -22,31 +46,7 @@
 
 **Contributors:** Phil McAleer
 
-Tags: NA
- 
-## Coil
-
-<dfn>An abbreviation for collaborative online international learning</dfn>
-
-**Long Definition:** 
-
-
-
-
-
-
-
-
-
-
-
-**Deep Dive:** 
-
-
-
-**Contributors:** NA
-
-Tags: NA
+**Tags:** NA
  
 ## Consent
 
@@ -70,7 +70,7 @@ Tags: NA
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA
  
 ## Control Groups
 
@@ -94,4 +94,4 @@ Tags: NA
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA

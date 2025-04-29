@@ -14,7 +14,10 @@ alldat <- read_csv("Terms_to_render.csv") %>%
   mutate(terms = trimws(terms,
                         which = "both",
                         whitespace = "[\\h\\v]")) %>%
-  arrange(terms)
+  mutate(new_terms = substr(terms,1,3),
+         new_terms = str_to_title(new_terms)) %>%
+  arrange(new_terms) %>%
+  select(-new_terms)
 
 t <- alldat %>%
   select(terms, ShortDef) %>%

@@ -1,6 +1,6 @@
 #  M 
  
-## Mann-Whitney U Test
+## Mann-Whitney U test
 
 <dfn>NA</dfn>
 
@@ -22,7 +22,7 @@
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA
  
 ## Mentimeter
 
@@ -46,7 +46,7 @@ The company describes the tool as a way to “Turn presentations into conversation
 
 **Contributors:** Alison McCandlish
 
-Tags: NA
+**Tags:** NA
  
 ## Mixed Methods
 
@@ -70,7 +70,7 @@ Tags: NA
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA
  
 ## Moodle
 
@@ -94,7 +94,7 @@ Tags: NA
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA
  
 ## Multidisciplinary
 
@@ -118,4 +118,4 @@ Tags: NA
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA

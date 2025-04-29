@@ -57,6 +57,8 @@ format:
   html:
     theme: journal
     number-sections: false
+    css: style.css
 
+  
 editor: visual
 

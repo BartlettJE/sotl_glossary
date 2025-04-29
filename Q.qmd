@@ -22,7 +22,7 @@
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA
  
 ## Quantitative
 
@@ -46,4 +46,4 @@ Tags: NA
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA

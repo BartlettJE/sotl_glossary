@@ -22,7 +22,7 @@
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA
  
 ## Reflective Practice
 
@@ -46,7 +46,7 @@ Tags: NA
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA
  
 ## Regression
 
@@ -70,7 +70,7 @@ Tags: NA
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA
  
 ## Research-Led Teaching
 
@@ -94,7 +94,7 @@ Tags: NA
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA
  
 ## Russell Group
 
@@ -118,4 +118,4 @@ Tags: NA
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA

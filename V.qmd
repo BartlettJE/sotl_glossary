@@ -1,5 +1,29 @@
 #  V 
  
+## VLE
+
+<dfn>Virtual learning environment</dfn>
+
+**Long Definition:** 
+
+
+
+
+
+
+
+
+
+
+
+**Deep Dive:** 
+
+
+
+**Contributors:** NA
+
+**Tags:** NA
+ 
 ## Virtual Reality
 
 <dfn>NA</dfn>
@@ -22,28 +46,4 @@
 
 **Contributors:** NA
 
-Tags: NA
- 
-## Vle
-
-<dfn>Virtual learning environment</dfn>
-
-**Long Definition:** 
-
-
-
-
-
-
-
-
-
-
-
-**Deep Dive:** 
-
-
-
-**Contributors:** NA
-
-Tags: NA
+**Tags:** NA

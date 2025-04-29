@@ -1,5 +1,29 @@
 #  E 
  
+## EDI
+
+<dfn>An abbreviation for the term equality, diversity and inclusion</dfn>
+
+**Long Definition:** 
+
+
+
+
+
+
+
+
+
+
+
+**Deep Dive:** 
+
+
+
+**Contributors:** NA
+
+**Tags:** NA
+ 
 ## Ecopedagogy
 
 <dfn>NA</dfn>
@@ -22,31 +46,7 @@
 
 **Contributors:** NA
 
-Tags: NA
- 
-## Edi
-
-<dfn>An abbreviation for the term equality, diversity and inclusion</dfn>
-
-**Long Definition:** 
-
-
-
-
-
-
-
-
-
-
-
-**Deep Dive:** 
-
-
-
-**Contributors:** NA
-
-Tags: NA
+**Tags:** NA
  
 ## Effect Sizes
 
@@ -70,7 +70,7 @@ Tags: NA
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA
  
 ## Epistemology
 
@@ -94,7 +94,7 @@ Stone, l. 2008. Epistemology. In given, l. (ed.) The sage encyclopedia of qualit
 
 **Contributors:** Nic Kipar
 
-Tags: Methods
+**Tags:** Methods
  
 ## Ethics
 
@@ -118,7 +118,7 @@ Tags: Methods
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA
  
 ## Experiential Learning
 
@@ -142,4 +142,4 @@ Tags: NA
 
 **Contributors:** Susan Lindsay
 
-Tags: NA
+**Tags:** NA

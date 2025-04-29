@@ -22,7 +22,7 @@
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA
  
 ## Scholarship
 
@@ -46,9 +46,9 @@ Tags: NA
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA
  
-## Sotl
+## SoTL
 
 <dfn>An abbreviation for the phrase scholarship of learning and teaching</dfn>
 
@@ -70,7 +70,7 @@ Tags: NA
 
 **Contributors:** Katharine Terrell
 
-Tags: NA
+**Tags:** NA
  
 ## Student Voice
 
@@ -94,7 +94,7 @@ Tags: NA
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA
  
 ## Summative Assessment
 
@@ -118,7 +118,7 @@ Tags: NA
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA
  
 ## Sustainable
 
@@ -142,7 +142,7 @@ Tags: NA
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA
  
 ## Synchronous
 
@@ -166,4 +166,4 @@ Tags: NA
 
 **Contributors:** Katharine Terrell
 
-Tags: NA
+**Tags:** NA

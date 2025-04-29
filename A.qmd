@@ -1,5 +1,29 @@
 #  A 
  
+## AI-driven Adaptive Learning
+
+<dfn>Ai-driven systems provide a more personalised learning experience which cater to diverse learning preferences/requirements.</dfn>
+
+**Long Definition:** Ai-driven adaptive learning enhances student engagement and performance, scaffolding individual learner pathways in real-time based on performance and preference. It requires technology to diagnose a starting point for learners in terms of their existing knowledge and skills. Subsequently upskilling them and continually monitoring their performance. The systems provide immediate feedback to the students, which informs their subsequent learning tasks.
+
+
+
+
+
+
+
+
+
+
+
+**Deep Dive:** 
+
+
+
+**Contributors:** Vicki Dale
+
+**Tags:** NA
+ 
 ## Accreditation
 
 <dfn>A quality assurance and enhancement mechanism for programmes/courses by a relevant institution/external professional body, to ensure standards.</dfn>
@@ -22,7 +46,7 @@
 
 **Contributors:** Joanna Stewart, Alison McCandlish
 
-Tags: NA
+**Tags:** NA
  
 ## Active Learning
 
@@ -46,31 +70,7 @@ Tags: NA
 
 **Contributors:** Vicki Dale
 
-Tags: NA
- 
-## Ai-Driven Adaptive Learning
-
-<dfn>Ai-driven systems provide a more personalised learning experience which cater to diverse learning preferences/requirements.</dfn>
-
-**Long Definition:** Ai-driven adaptive learning enhances student engagement and performance, scaffolding individual learner pathways in real-time based on performance and preference. It requires technology to diagnose a starting point for learners in terms of their existing knowledge and skills. Subsequently upskilling them and continually monitoring their performance. The systems provide immediate feedback to the students, which informs their subsequent learning tasks.
-
-
-
-
-
-
-
-
-
-
-
-**Deep Dive:** 
-
-
-
-**Contributors:** Vicki Dale
-
-Tags: NA
+**Tags:** NA
  
 ## Assessment
 
@@ -94,7 +94,7 @@ Tags: NA
 
 **Contributors:** Helena Paterson
 
-Tags: hidden curriculum; pedagogy
+**Tags:** hidden curriculum; pedagogy
  
 ## Asynchronous Learning
 
@@ -118,4 +118,4 @@ Tags: hidden curriculum; pedagogy
 
 **Contributors:** Joanna Stewart
 
-Tags: NA
+**Tags:** NA

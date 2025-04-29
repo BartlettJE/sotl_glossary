@@ -25,7 +25,7 @@ Active Learning,Learning by doing and reflection; this could be individual or co
 ","Active learning can take place in any format, including online or in-person.  There is a large variety of methods and strategies that can be employed. e.g., team-based learning, think, pair, share and problem-based learning. Active learning supports various skills such as critical thinking, problem-solving, teamwork, communication and collaboration. Active learning facilitates deep learning vs superficial learning.
 
 ",Vicki Dale,
-Ai-Driven Adaptive Learning,Ai-driven systems provide a more personalised learning experience which cater to diverse learning preferences/requirements.,"Ai-driven adaptive learning enhances student engagement and performance, scaffolding individual learner pathways in real-time based on performance and preference. It requires technology to diagnose a starting point for learners in terms of their existing knowledge and skills. Subsequently upskilling them and continually monitoring their performance. The systems provide immediate feedback to the students, which informs their subsequent learning tasks.
+AI-driven Adaptive Learning,Ai-driven systems provide a more personalised learning experience which cater to diverse learning preferences/requirements.,"Ai-driven adaptive learning enhances student engagement and performance, scaffolding individual learner pathways in real-time based on performance and preference. It requires technology to diagnose a starting point for learners in terms of their existing knowledge and skills. Subsequently upskilling them and continually monitoring their performance. The systems provide immediate feedback to the students, which informs their subsequent learning tasks.
 
 
 
@@ -77,7 +77,7 @@ Co-Creation,Development through collaboration,"In an education setting this term
 ","The University of Glasgow Learning and Teaching Conference 2025 was on the theme of Co-Creation and Collaboration and the programme can be viewed here: [https://www.gla.ac.uk/myglasgow/add/events/pastconferencewebpages/annuallearningandteachingconference/](https://www.gla.ac.uk/myglasgow/add/events/pastconferencewebpages/annuallearningandteachingconference/). In addition, a series of presentations on the theme of Co-Creation from the conference can be found on the associated Youtube channel here: [https://www.youtube.com/playlist?list=PLUtE5AlmlvhVBabCbLiGVC-8CyTEHOjRg](https://www.youtube.com/playlist?list=PLUtE5AlmlvhVBabCbLiGVC-8CyTEHOjRg)
 
 ",Phil McAleer,
-Coil,An abbreviation for collaborative online international learning,"
+COIL,An abbreviation for collaborative online international learning,"
 
 
 
@@ -168,7 +168,7 @@ Ecopedagogy,,"
 ","
 
 ",,
-Edi,"An abbreviation for the term equality, diversity and inclusion","
+EDI,"An abbreviation for the term equality, diversity and inclusion","
 
 
 
@@ -324,7 +324,7 @@ Learning Analytics,,"
 ","
 
 ",,
-Lti,,"
+LTI,,"
 
 
 
@@ -337,7 +337,7 @@ Lti,,"
 ","
 
 ",,
-Lts,"Learning, teaching and scholarship","
+LTS,"Learning, teaching and scholarship","
 
 
 
@@ -350,7 +350,7 @@ Lts,"Learning, teaching and scholarship","
 ","A career track at the University of Glasgow: [Guidelines for Learning, Teaching & Scholarship Track](https://www.gla.ac.uk/media/Media_499574_smxx.pdf)
 
 ",Alison McCandlish,
-Mann-Whitney U Test,,"
+Mann-Whitney U test,,"
 
 
 
@@ -467,7 +467,7 @@ Outputs,Forms of dissemination.,"
 ","The outputs of a SOTL project might be blog posts, journal articles, posters and more.
 
 ",Katharine Terrell,
-P-Value,"The probability of your data (or more extreme), assuming the null hypothesis is true.","Under frequentist inferential statistics, the p-value represents the probability of your data (or more extreme), assuming that the null hypothesis is true. Informally, you can see it as a measure of surprise, where a small p-value means your data would be surprising under the null hypothesis. Conversely, a large p-value means your data would not be surprising under the null hypothesis. The idea behind this technique is helping you make decisions where you can either reject the null or retain the null. Given an alpha value (often .05 or 5%), rejecting the null means you conclude there is an effect, whereas retaining the null means you do not conclude there is an effect.
+p-value,"The probability of your data (or more extreme), assuming the null hypothesis is true.","Under frequentist inferential statistics, the p-value represents the probability of your data (or more extreme), assuming that the null hypothesis is true. Informally, you can see it as a measure of surprise, where a small p-value means your data would be surprising under the null hypothesis. Conversely, a large p-value means your data would not be surprising under the null hypothesis. The idea behind this technique is helping you make decisions where you can either reject the null or retain the null. Given an alpha value (often .05 or 5%), rejecting the null means you conclude there is an effect, whereas retaining the null means you do not conclude there is an effect.
 
 
 
@@ -662,7 +662,7 @@ Scholarship,,"
 ","
 
 ",,
-Sotl,An abbreviation for the phrase scholarship of learning and teaching,"The scholarship of learning and teaching is
+SoTL,An abbreviation for the phrase scholarship of learning and teaching,"The scholarship of learning and teaching is
 
 “The scholarship of teaching and learning is a rigorous, literature- informed, and peer-reviewed framework for investigating teaching and learning in higher education. It is methodologically flexible and open to many types of inquiries into pedagogical, curricular, disciplinary, and institutional contexts.” (Webb & tierney)
 
@@ -766,7 +766,7 @@ Virtual Reality,,"
 ","
 
 ",,
-Vle,Virtual learning environment,"
+VLE,Virtual learning environment,"
 
 
 

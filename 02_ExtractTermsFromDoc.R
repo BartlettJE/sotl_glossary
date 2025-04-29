@@ -36,7 +36,7 @@ alldat <- read_docx(fname[1]) %>%
   unite("Contributors", starts_with("Contributors"), sep = "\n\n") %>%
   unite("Tags", starts_with("Tags"), sep = "\n\n") %>%
   rename(terms = Term_1) %>%
-  mutate(terms = str_to_title(terms),
+  mutate(#terms = str_to_title(terms),
          LongDef = str_to_sentence(LongDef),
          ShortDef = str_to_sentence(ShortDef)) %>%
   select(-test)

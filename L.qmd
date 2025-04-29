@@ -1,5 +1,53 @@
 #  L 
  
+## LTI
+
+<dfn>NA</dfn>
+
+**Long Definition:** 
+
+
+
+
+
+
+
+
+
+
+
+**Deep Dive:** 
+
+
+
+**Contributors:** NA
+
+**Tags:** NA
+ 
+## LTS
+
+<dfn>Learning, teaching and scholarship</dfn>
+
+**Long Definition:** 
+
+
+
+
+
+
+
+
+
+
+
+**Deep Dive:** A career track at the University of Glasgow: [Guidelines for Learning, Teaching & Scholarship Track](https://www.gla.ac.uk/media/Media_499574_smxx.pdf)
+
+
+
+**Contributors:** Alison McCandlish
+
+**Tags:** NA
+ 
 ## Learning
 
 <dfn>NA</dfn>
@@ -22,7 +70,7 @@
 
 **Contributors:** NA
 
-Tags: NA
+**Tags:** NA
  
 ## Learning Analytics
 
@@ -46,52 +94,4 @@ Tags: NA
 
 **Contributors:** NA
 
-Tags: NA
- 
-## Lti
-
-<dfn>NA</dfn>
-
-**Long Definition:** 
-
-
-
-
-
-
-
-
-
-
-
-**Deep Dive:** 
-
-
-
-**Contributors:** NA
-
-Tags: NA
- 
-## Lts
-
-<dfn>Learning, teaching and scholarship</dfn>
-
-**Long Definition:** 
-
-
-
-
-
-
-
-
-
-
-
-**Deep Dive:** A career track at the University of Glasgow: [Guidelines for Learning, Teaching & Scholarship Track](https://www.gla.ac.uk/media/Media_499574_smxx.pdf)
-
-
-
-**Contributors:** Alison McCandlish
-
-Tags: NA
+**Tags:** NA

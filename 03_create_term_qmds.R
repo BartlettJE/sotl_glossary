@@ -30,7 +30,7 @@ make_entry <- function(dat){
 
 **Contributors:** {dat$Contributors}
 
-Tags: {dat$Tags}
+**Tags:** {dat$Tags}
 
 ")
 } # careful spacing to make sure it formats the .qmds nicely later
