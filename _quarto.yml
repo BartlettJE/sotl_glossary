@@ -33,6 +33,7 @@ book:
     - F.qmd
     - G.qmd
     - H.qmd
+    - I.qmd
     - K.qmd
     - L.qmd
     - M.qmd
@@ -50,7 +51,7 @@ book:
   sidebar:
       title: SoTL Compendium
   page-footer:
-      left: "CC-BY-SA-4.0 (2024) Helena Paterson, Phil McAleer & James Bartlett"
+      left: "CC-BY-SA-4.0 (2025) Helena Paterson, Phil McAleer & James Bartlett"
 
 bibliography: references.bib
 

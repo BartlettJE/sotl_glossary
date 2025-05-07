@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Scholarship of Teaching and Learning Compendium",
     "section": "",
-    "text": "Overview\nWith the expanding nature of scholarship in Higher Education, having an agreed source of information to work from is helpful in facilitating communication and integration across diverse teams and disciplines who engage in scholarship. This glossary was generated with that idea in mind as part of the University of Glasgow Learning and Teaching Conference 2025 and as such contains a crowd-sourced collection of terms used in the Scholarship of Teaching and Learning (SoTL).\nThis is a living document of an online, open access, collaborative compendium and will be updated at semi-regular intervals. Please feel free to contact the main editorial team of Drs Helena Paterson, Phil McAleer and James Bartlett if you wish to contribute or post as an issue on github.\nLast edited: 2025-04-29",
+    "text": "Overview\nWith the expanding nature of scholarship in Higher Education, having an agreed source of information to work from is helpful in facilitating communication and integration across diverse teams and disciplines who engage in scholarship. This glossary was generated with that idea in mind as part of the University of Glasgow Learning and Teaching Conference 2025 and as such contains a crowd-sourced collection of terms used in the Scholarship of Teaching and Learning (SoTL).\nThis is a living document of an online, open access, collaborative compendium and will be updated at semi-regular intervals. Please feel free to contact the main editorial team of Drs Helena Paterson, Phil McAleer and James Bartlett if you wish to contribute or post as an issue on github.\nLast edited: 2025-05-07",
     "crumbs": [
       "Overview"
     ]
@@ -250,13 +250,33 @@
     ]
   },
   {
+    "objectID": "I.html",
+    "href": "I.html",
+    "title": "I",
+    "section": "",
+    "text": "Impact\nThe demonstable contribution of research.\nThe demonstrable contribution that excellent research makes to society and the economy.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>I</span>"
+    ]
+  },
+  {
+    "objectID": "I.html#impact2",
+    "href": "I.html#impact2",
+    "title": "I",
+    "section": "Impact2",
+    "text": "Impact2\nThe demonstable contribution of research.\nThe demonstrable contribution that excellent research makes to society and the economy.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>I</span>"
+    ]
+  },
+  {
     "objectID": "K.html",
     "href": "K.html",
     "title": "K",
     "section": "",
     "text": "Knowledge Exchange\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>K</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>K</span>"
     ]
   },
   {
@@ -266,7 +286,7 @@
     "section": "",
     "text": "LTI\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>L</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>L</span>"
     ]
   },
   {
@@ -276,7 +296,7 @@
     "section": "LTS",
     "text": "LTS\nLearning, teaching and scholarship\nLong Definition:\nDeep Dive: A career track at the University of Glasgow: Guidelines for Learning, Teaching & Scholarship Track\nContributors: Alison McCandlish\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>L</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>L</span>"
     ]
   },
   {
@@ -286,7 +306,7 @@
     "section": "Learning",
     "text": "Learning\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>L</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>L</span>"
     ]
   },
   {
@@ -296,7 +316,7 @@
     "section": "Learning Analytics",
     "text": "Learning Analytics\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>L</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>L</span>"
     ]
   },
   {
@@ -306,7 +326,7 @@
     "section": "",
     "text": "Mann-Whitney U test\nA non-parametric inferential statistics test for comparing the difference between two groups.\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>M</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>M</span>"
     ]
   },
   {
@@ -316,7 +336,7 @@
     "section": "Mentimeter",
     "text": "Mentimeter\nAn interactive computer programme tool which allows an audience to interact with pre-defined (presenter-designed) questions using their own device.\nLong Definition:\nDeep Dive: https://www.mentimeter.com/ is the main company website. https://www.mentimeter.com/education shows education use cases.\nThe company describes the tool as a way to �Turn presentations into conversations with interactive polls that engage meetings and classrooms�\nContributors: Alison McCandlish\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>M</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>M</span>"
     ]
   },
   {
@@ -326,7 +346,7 @@
     "section": "Mixed Methods",
     "text": "Mixed Methods\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>M</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>M</span>"
     ]
   },
   {
@@ -336,7 +356,7 @@
     "section": "Moodle",
     "text": "Moodle\nCore moodle (modular object-oriented dynamic learning environment) is an open-source learning management system designed for online education and training. It allows educators to create, deliver, and manage courses and assessment activities in a digital environment and also facilitates integrations with a variety of other complementary learning technologies, enhancing the learning experience for students and educators.\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>M</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>M</span>"
     ]
   },
   {
@@ -346,7 +366,7 @@
     "section": "Multidisciplinary",
     "text": "Multidisciplinary\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>M</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>M</span>"
     ]
   },
   {
@@ -356,7 +376,7 @@
     "section": "",
     "text": "Non-Parametric\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>N</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>N</span>"
     ]
   },
   {
@@ -366,7 +386,7 @@
     "section": "",
     "text": "Ontology\nNA\nLong Definition: �One�s view of reality. Ontology includes one�s assumptions about the nature of reality and claims about what exists. In sotl, it is important to acknowledge the philosophical underpinnings that inform the research decisions.� (Webb & tierney)\nDeep Dive:\nContributors: Katharine Terrell\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>O</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>O</span>"
     ]
   },
   {
@@ -376,7 +396,7 @@
     "section": "Open Science",
     "text": "Open Science\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>O</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>O</span>"
     ]
   },
   {
@@ -386,7 +406,7 @@
     "section": "Open Source",
     "text": "Open Source\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>O</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>O</span>"
     ]
   },
   {
@@ -396,7 +416,7 @@
     "section": "Outputs",
     "text": "Outputs\nForms of dissemination.\nLong Definition:\nDeep Dive: The outputs of a SOTL project might be blog posts, journal articles, posters and more.\nContributors: Katharine Terrell\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>O</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>O</span>"
     ]
   },
   {
@@ -406,7 +426,7 @@
     "section": "",
     "text": "Parametric\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>P</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>P</span>"
     ]
   },
   {
@@ -416,7 +436,7 @@
     "section": "Passive Learning",
     "text": "Passive Learning\nIn contrast to active learning, this term is associated with students being exposed to a predominantly an information transmission approach where they have no agency or investment in their learning.\nLong Definition: Students cramming for a test may adopt a superficial approach to learning where the goal or motivation is to regurgitate with the purpose of passing an exam.\nDeep Dive:\nContributors: Vicki Dale, Steve Draper\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>P</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>P</span>"
     ]
   },
   {
@@ -426,7 +446,7 @@
     "section": "Pedagogy",
     "text": "Pedagogy\n�The art and science of teaching, pedagogy is the methods of lesson, course, and program delivery.� (Webb & tierney)\nLong Definition:\nDeep Dive:\nContributors: Katharine Terrell\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>P</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>P</span>"
     ]
   },
   {
@@ -436,7 +456,7 @@
     "section": "Peer Assessment",
     "text": "Peer Assessment\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>P</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>P</span>"
     ]
   },
   {
@@ -446,7 +466,7 @@
     "section": "Personalised Learning",
     "text": "Personalised Learning\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>P</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>P</span>"
     ]
   },
   {
@@ -456,7 +476,7 @@
     "section": "Problem-Based Learning",
     "text": "Problem-Based Learning\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>P</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>P</span>"
     ]
   },
   {
@@ -466,7 +486,7 @@
     "section": "p-value",
     "text": "p-value\nThe probability of your data (or more extreme), assuming the null hypothesis is true.\nLong Definition: Under frequentist inferential statistics, the p-value represents the probability of your data (or more extreme), assuming that the null hypothesis is true. Informally, you can see it as a measure of surprise, where a small p-value means your data would be surprising under the null hypothesis. Conversely, a large p-value means your data would not be surprising under the null hypothesis. The idea behind this technique is helping you make decisions where you can either reject the null or retain the null. Given an alpha value (often .05 or 5%), rejecting the null means you conclude there is an effect, whereas retaining the null means you do not conclude there is an effect.\nDeep Dive:\nContributors: James Bartlett; Phil McAleer; Helena Paterson\nTags: Statistics",
     "crumbs": [
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>P</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>P</span>"
     ]
   },
   {
@@ -476,7 +496,7 @@
     "section": "",
     "text": "Qualitative\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Q</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Q</span>"
     ]
   },
   {
@@ -486,7 +506,7 @@
     "section": "Quantitative",
     "text": "Quantitative\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Q</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Q</span>"
     ]
   },
   {
@@ -496,7 +516,7 @@
     "section": "",
     "text": "Red Brick University\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>R</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>R</span>"
     ]
   },
   {
@@ -506,7 +526,7 @@
     "section": "Reflective Practice",
     "text": "Reflective Practice\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>R</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>R</span>"
     ]
   },
   {
@@ -516,7 +536,7 @@
     "section": "Regression",
     "text": "Regression\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>R</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>R</span>"
     ]
   },
   {
@@ -526,7 +546,7 @@
     "section": "Research-Led Teaching",
     "text": "Research-Led Teaching\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>R</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>R</span>"
     ]
   },
   {
@@ -536,7 +556,7 @@
     "section": "Russell Group",
     "text": "Russell Group\nA group of 24 research-intensive uk universities.\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>R</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>R</span>"
     ]
   },
   {
@@ -546,7 +566,7 @@
     "section": "",
     "text": "Sample Size\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>S</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>S</span>"
     ]
   },
   {
@@ -556,7 +576,7 @@
     "section": "Scholarship",
     "text": "Scholarship\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>S</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>S</span>"
     ]
   },
   {
@@ -566,7 +586,7 @@
     "section": "SoTL",
     "text": "SoTL\nAn abbreviation for the phrase scholarship of learning and teaching\nLong Definition: The scholarship of learning and teaching is\n�The scholarship of teaching and learning is a rigorous, literature- informed, and peer-reviewed framework for investigating teaching and learning in higher education. It is methodologically flexible and open to many types of inquiries into pedagogical, curricular, disciplinary, and institutional contexts.� (Webb & tierney)\nDeep Dive:\nContributors: Katharine Terrell\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>S</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>S</span>"
     ]
   },
   {
@@ -576,7 +596,7 @@
     "section": "Student Voice",
     "text": "Student Voice\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>S</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>S</span>"
     ]
   },
   {
@@ -586,7 +606,7 @@
     "section": "Summative Assessment",
     "text": "Summative Assessment\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>S</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>S</span>"
     ]
   },
   {
@@ -596,7 +616,7 @@
     "section": "Sustainable",
     "text": "Sustainable\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>S</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>S</span>"
     ]
   },
   {
@@ -606,7 +626,7 @@
     "section": "Synchronous",
     "text": "Synchronous\nHappening at the same time; live.\nLong Definition: Synchronous learning activities are those where the teacher and learner are interacting in real time. For example, lectures (online or face-to-face) are typically synchronous - the teacher facilitates learning activities �live� and students engage in the activities in that moment. Compare with �asynchronous�.\nDeep Dive:\nContributors: Katharine Terrell\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>S</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>S</span>"
     ]
   },
   {
@@ -616,7 +636,7 @@
     "section": "",
     "text": "Teaching\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>T</span>"
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>T</span>"
     ]
   },
   {
@@ -626,7 +646,7 @@
     "section": "Team Teaching",
     "text": "Team Teaching\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>T</span>"
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>T</span>"
     ]
   },
   {
@@ -636,7 +656,7 @@
     "section": "",
     "text": "VLE\nVirtual learning environment\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>V</span>"
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>V</span>"
     ]
   },
   {
@@ -646,7 +666,7 @@
     "section": "Virtual Reality",
     "text": "Virtual Reality\nNA\nLong Definition:\nDeep Dive:\nContributors: NA\nTags: NA",
     "crumbs": [
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>V</span>"
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>V</span>"
     ]
   },
   {
@@ -656,7 +676,7 @@
     "section": "",
     "text": "Work-Integrated Learning\nWork-integrated learning (wil) is a term used to describe different teaching strategies that integrate the theory of learning with the practice of work. This can take many forms such as work placements, fieldwork, and external stakeholder/industry supported projects or assessments.\nLong Definition: Wil aims to foster better employability since students take part in activities directly related to the workplace. It helps students to put their learning into context and allows them to apply taught theory. Authentic, real-world assessment is the foundation of wil which provides students feedback and experience more applicable to their future career. It is often accredited or supported by external stakeholders and can range from a single course to an entire programme (ball & manwaring, 2010). Wil helps equip students with skills employer�s value.\nDeep Dive:\nContributors: Susan Lindsay\nTags: WIL",
     "crumbs": [
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>W</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>W</span>"
     ]
   },
   {
@@ -666,7 +686,7 @@
     "section": "",
     "text": "The following is a list of all terms in the compendium that have at least a short definition associated with them.\n\n\n\n\n\n\nAccreditation\n\n\nActive Learning\n\n\nAI-driven Adaptive Learning\n\n\n\n\nAssessment\n\n\nAsynchronous Learning\n\n\nCo-Creation\n\n\n\n\nCOIL\n\n\nConsent\n\n\nControl Groups\n\n\n\n\nDemographics\n\n\nDissemination\n\n\nEDI\n\n\n\n\nEffect Sizes\n\n\nEpistemology\n\n\nEthics\n\n\n\n\nExperiential Learning\n\n\nFeedback\n\n\nFormative Assessment\n\n\n\n\nHidden Curriculum\n\n\nLTS\n\n\nMann-Whitney U test\n\n\n\n\nMentimeter\n\n\nMoodle\n\n\nOutputs\n\n\n\n\np-value\n\n\nPassive Learning\n\n\nPedagogy\n\n\n\n\nRussell Group\n\n\nSoTL\n\n\nSynchronous\n\n\n\n\nVLE\n\n\nWork-Integrated Learning\n\n\n\nThe following is a list of all terms in the compendium that do not yet have definition associated with them.\n\n\n\n\n\n\nDigital Credentials\n\n\nEcopedagogy\n\n\nGamification\n\n\n\n\nGlasgow Specific Terms\n\n\nKnowledge Exchange\n\n\nLearning\n\n\n\n\nLearning Analytics\n\n\nLTI\n\n\nMixed Methods\n\n\n\n\nMultidisciplinary\n\n\nNon-Parametric\n\n\nOntology\n\n\n\n\nOpen Science\n\n\nOpen Source\n\n\nParametric\n\n\n\n\nPeer Assessment\n\n\nPersonalised Learning\n\n\nProblem-Based Learning\n\n\n\n\nQualitative\n\n\nQuantitative\n\n\nRed Brick University\n\n\n\n\nReflective Practice\n\n\nRegression\n\n\nResearch-Led Teaching\n\n\n\n\nSample Size\n\n\nScholarship\n\n\nStudent Voice\n\n\n\n\nSummative Assessment\n\n\nSustainable\n\n\nTeaching\n\n\n\n\nTeam Teaching\n\n\nVirtual Reality",
     "crumbs": [
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Index</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Index</span>"
     ]
   }
 ]
