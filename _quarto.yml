@@ -5,6 +5,9 @@ project:
 book:
   title: "Scholarship of Teaching and Learning Compendium"
   google-analytics: "G-PL27NX2KY8"
+  cover-image: images/heximage.png
+  image: images/heximage.png
+  favicon: images/favicon.ico
   author: 
   - orcid: 0000-0001-7715-5973
     name:
