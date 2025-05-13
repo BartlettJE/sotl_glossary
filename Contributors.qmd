@@ -14,3 +14,5 @@ contributors %>%
   select(Name = Fullname, Affiliation = `Affiliation 1`) %>% 
   knitr::kable()
 ```
+
+Please feel free to contact the main editorial team of Drs Helena Paterson, Phil McAleer and James Bartlett, School of Psychology and Neuroscience, University of Glasgow, if you wish to contribute or post as an issue on github.

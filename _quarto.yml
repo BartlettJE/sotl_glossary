@@ -4,10 +4,13 @@ project:
 
 book:
   title: "Scholarship of Teaching and Learning Compendium"
+  description: "A crowd-sourced collection of terms from the Scholarship of Teaching and Learning (SoTL)."
   google-analytics: "G-PL27NX2KY8"
   cover-image: images/heximage.png
   image: images/heximage.png
   favicon: images/favicon.ico
+  editorial-director: "Phil McAleer"
+  editor: "Helena Paterson"
   author: 
   - orcid: 0000-0001-7715-5973
     name:
@@ -63,7 +66,4 @@ format:
     theme: journal
     number-sections: false
     css: style.css
-
-  
-editor: visual
 
