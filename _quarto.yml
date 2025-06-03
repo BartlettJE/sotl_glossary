@@ -9,8 +9,6 @@ book:
   cover-image: images/heximage.png
   image: images/heximage.png
   favicon: images/favicon.ico
-  editorial-director: "Phil McAleer"
-  editor: "Helena Paterson"
   author: 
   - orcid: 0000-0001-7715-5973
     name:
