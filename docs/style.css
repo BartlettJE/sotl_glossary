@@ -25,3 +25,17 @@
   color: var(--pink);
 }
 
+li.sidebar-item {
+  width: 2em;
+  float: left;
+ /* border: 1px solid blue; */
+}
+
+li.sidebar-item:nth-child(1),
+li.sidebar-item:nth-child(2),
+li.sidebar-item:nth-child(23),
+li.sidebar-item:nth-child(24){
+  width: 100%;
+  /* border-color: red; */
+}
+
