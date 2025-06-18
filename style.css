@@ -33,6 +33,8 @@ li.sidebar-item {
 
 li.sidebar-item:nth-child(1),
 li.sidebar-item:nth-child(2),
+/* update numbers below once full 
+(27, 28) alphabet is added */
 li.sidebar-item:nth-child(23),
 li.sidebar-item:nth-child(24){
   width: 100%;
