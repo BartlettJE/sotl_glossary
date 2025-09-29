@@ -1,0 +1,27 @@
+#  U 
+ 
+## Unit Learning Activity
+
+<dfn>It is a unit (i.e. single) or cumulative focused task or activity in a specific unit of a module that builds on learning in that unit. It could be individual or group-based (collaborative).</dfn>
+
+**Long Definition:** Learning modules comprise of units (and sub-units) and a key concept is introduced in separate but interlinked units through a group or a single task. These common tasks that contribute to a general or deeper understanding of a concept introduced in that unit is a unit learning activity. The outcome of each unit learning activity contributes to the over learning outcome of that particular unit (and therefore to the module outcome)
+
+
+
+**Deep Dive:** This is a term used in learning design. A Unit Learning Activity is a structured task that can be performed individually or in groups that is designed to deepen understanding of a key concept introduced within a specific unit of a learning module.
+
+Modules are composed of multiple interlinked units (and sub-units), each contributing to the overarching module outcome (no matter what pedagogy is used).
+
+Each unit introduces a distinct concept, explored through one or more targeted learning activities.
+
+These numerous activities are intentionally aligned to foster both general comprehension and deeper insight into the unit’s core concept.
+
+The outcome of each Unit Learning Activity directly supports the intended learning outcomes of the unit and cumulatively contributes to the broader learning goals of the module.
+
+
+
+
+
+**Contributors:** vjb4@aber.ac.uk , valentinejudeborges@gmail.com
+
+**Tags:** NA

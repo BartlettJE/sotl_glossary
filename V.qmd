@@ -2,21 +2,23 @@
  
 ## VLE
 
-<dfn>Virtual learning environment</dfn>
+<dfn>Virtual learning environment, a online platform for sharing lecture slides and discussions such as moodle or blackboard</dfn>
 
 **Long Definition:** 
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -32,15 +34,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 

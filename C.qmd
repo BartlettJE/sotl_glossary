@@ -2,21 +2,23 @@
  
 ## COIL
 
-<dfn>An abbreviation for collaborative online international learning; a style of teaching which involves two or more groups of students from different institutes being taught that same module at the same time using the resources available at all the institutes involved.</dfn>
+<dfn>An abbreviation for collaborative online international learning</dfn>
 
-**Long Definition:** 
-
-
-
-
-
-
-
-
+**Long Definition:** Coil is a style of teaching which involves two or more groups of students from different institutes being taught that same module at the same time using the resources available at all the institutes involved.
 
 
 
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -32,15 +34,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** The University of Glasgow Learning and Teaching Conference 2025 was on the theme of Co-Creation and Collaboration and the programme can be viewed here: [https://www.gla.ac.uk/myglasgow/add/events/pastconferencewebpages/annuallearningandteachingconference/](https://www.gla.ac.uk/myglasgow/add/events/pastconferencewebpages/annuallearningandteachingconference/). In addition, a series of presentations on the theme of Co-Creation from the conference can be found on the associated Youtube channel here: [https://www.youtube.com/playlist?list=PLUtE5AlmlvhVBabCbLiGVC-8CyTEHOjRg](https://www.youtube.com/playlist?list=PLUtE5AlmlvhVBabCbLiGVC-8CyTEHOjRg)
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -56,15 +60,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -76,15 +82,7 @@
 
 <dfn>In experimental design a group that did not experience an intervention</dfn>
 
-**Long Definition:** A group that represented the baseline or default state
-
-
-
-
-
-
-
-
+**Long Definition:** A group that represented the baseline or default state before an intervention has taken place. Normally, part of an experiment or intervention where it would be compared would be an experimental group or an intervention group.
 
 
 
@@ -92,6 +90,16 @@
 
 
 
-**Contributors:** NA
+
+
+
+
+
+
+
+
+
+
+**Contributors:** Helena Paterson
 
 **Tags:** NA

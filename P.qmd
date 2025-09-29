@@ -8,15 +8,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -32,15 +34,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -50,21 +54,23 @@
  
 ## Pedagogy
 
-<dfn>ìThe art and science of teaching, pedagogy is the methods of lesson, course, and program delivery.î (Webb & tierney)</dfn>
+<dfn>‚ÄúThe art and science of teaching, pedagogy is the methods of lesson, course, and program delivery.‚Äù (Webb & tierney)</dfn>
 
 **Long Definition:** 
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -74,25 +80,27 @@
  
 ## Peer Assessment
 
-<dfn>NA</dfn>
+<dfn>A method of assessment where students assess work done by fellow students on their courses and make suggestions for improvement to encourage them to work autonomously and collaboratively.</dfn>
 
-**Long Definition:** 
-
-
+**Long Definition:** Peer assessment methods could include asking students to provide feedback on homework or formative/ practice assignments using a set of criteria provided by their tutor.
 
 
 
-
+**Deep Dive:** In order for peer feedback activities to be beneficial to those receiving feedback, it can be helpful to include guidelines for students, e.g. asking them to provide polite but constructive feedback rather than only being negatively critical or only providing praise but nothing to improve.
 
 
 
 
 
-**Deep Dive:** 
 
 
 
-**Contributors:** NA
+
+
+
+
+
+**Contributors:** Tanya Fernbank
 
 **Tags:** NA
  
@@ -104,15 +112,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -128,15 +138,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -152,15 +164,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 

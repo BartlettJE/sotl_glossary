@@ -8,15 +8,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -32,17 +34,19 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** https://www.mentimeter.com/ is the main company website. https://www.mentimeter.com/education shows education use cases.
 
-The company describes the tool as a way to ìTurn presentations into conversations with interactive polls that engage meetings and classroomsî
+The company describes the tool as a way to ‚ÄúTurn presentations into conversations with interactive polls that engage meetings and classrooms‚Äù
+
+
+
+
+
+
+
+
+
+
 
 **Contributors:** Alison McCandlish
 
@@ -56,15 +60,17 @@ The company describes the tool as a way to ìTurn presentations into conversation
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -74,17 +80,9 @@ The company describes the tool as a way to ìTurn presentations into conversation
  
 ## Moodle
 
-<dfn>Core moodle (modular object-oriented dynamic learning environment) is an open-source learning management system designed for online education and training. It allows educators to create, deliver, and manage courses and assessment activities in a digital environment and also facilitates integrations with a variety of other complementary learning technologies, enhancing the learning experience for students and educators.</dfn>
+<dfn>Modular object-oriented dynamic learning environment, one of the most popular virtual learning environments.</dfn>
 
-**Long Definition:** 
-
-
-
-
-
-
-
-
+**Long Definition:** Core moodle (modular object-oriented dynamic learning environment) is an open-source learning management system designed for online education and training. It allows educators to create, deliver, and manage courses and assessment activities in a digital environment and also facilitates integrations with a variety of other complementary learning technologies, enhancing the learning experience for students and educators.
 
 
 
@@ -92,7 +90,17 @@ The company describes the tool as a way to ìTurn presentations into conversation
 
 
 
-**Contributors:** NA
+
+
+
+
+
+
+
+
+
+
+**Contributors:** Tracy Wilkinson
 
 **Tags:** NA
  
@@ -104,15 +112,17 @@ The company describes the tool as a way to ìTurn presentations into conversation
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 

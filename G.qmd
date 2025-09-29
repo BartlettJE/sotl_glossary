@@ -1,5 +1,31 @@
 #  G 
  
+## Game-based Learning (GBL)
+
+<dfn>An approach to teaching that uses the principles, mechanics, and design of games to create engaging and effective learning experiences.</dfn>
+
+**Long Definition:** Gbl is the intentional use of games or game-like elements in educational contexts to promote active learning, motivation, and problem-solving. Unlike gamification, which adds points or rewards to existing tasks, gbl embeds learning directly into the structure of a game. It can be digital (video games, simulations) or non-digital (board games, role-play activities), and is applied across subjects from stem to languages, healthcare, and social sciences. By situating learning within interactive challenges, narratives, and feedback loops, gbl supports deeper engagement and helps learners practise skills in a safe, iterative environment.
+
+
+
+**Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Contributors:** Anshul Lau
+
+**Tags:** NA
+ 
 ## Gamification
 
 <dfn>NA</dfn>
@@ -8,15 +34,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -32,15 +60,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 

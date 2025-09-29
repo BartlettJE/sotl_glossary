@@ -8,15 +8,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -32,15 +34,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -54,17 +58,19 @@
 
 **Long Definition:** The scholarship of learning and teaching is
 
-ìThe scholarship of teaching and learning is a rigorous, literature- informed, and peer-reviewed framework for investigating teaching and learning in higher education. It is methodologically flexible and open to many types of inquiries into pedagogical, curricular, disciplinary, and institutional contexts.î (Webb & tierney)
-
-
-
-
-
-
-
-
+‚ÄúThe scholarship of teaching and learning is a rigorous, literature- informed, and peer-reviewed framework for investigating teaching and learning in higher education. It is methodologically flexible and open to many types of inquiries into pedagogical, curricular, disciplinary, and institutional contexts.‚Äù (Webb & tierney)
 
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -80,15 +86,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -104,15 +112,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -128,15 +138,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -148,19 +160,21 @@
 
 <dfn>Happening at the same time; live.</dfn>
 
-**Long Definition:** Synchronous learning activities are those where the teacher and learner are interacting in real time. For example, lectures (online or face-to-face) are typically synchronous - the teacher facilitates learning activities ìliveî and students engage in the activities in that moment. Compare with ìasynchronousî.
-
-
-
-
-
-
-
-
+**Long Definition:** Synchronous learning activities are those where the teacher and learner are interacting in real time. For example, lectures (online or face-to-face) are typically synchronous - the teacher facilitates learning activities ‚Äúlive‚Äù and students engage in the activities in that moment. Compare with ‚Äúasynchronous‚Äù.
 
 
 
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 

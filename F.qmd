@@ -2,17 +2,9 @@
  
 ## Feedback
 
-<dfn>Information about reactions to a person�s contribution to a task</dfn>
+<dfn>Information about reactions to a person’s contribution to a task</dfn>
 
-**Long Definition:** Feedback in educational settings
-
-
-
-
-
-
-
-
+**Long Definition:** Feedback in educational settings typically refers to two contexts in the uk. Feedback to students on their assessed work and feedback to staff on their teaching.
 
 
 
@@ -20,30 +12,42 @@
 
 
 
-**Contributors:** NA
+
+
+
+
+
+
+
+
+
+
+**Contributors:** Helena Paterson
 
 **Tags:** NA
  
 ## Formative Assessment
 
-<dfn>Activities designed to give both the teacher and the student an understanding of the student�s knowledge and skill without assigning a grade or counting towards a final grade.</dfn>
+<dfn>Activities designed to give both the teacher and the student an understanding of the student’s knowledge and skill without assigning a grade or counting towards a final grade.</dfn>
 
-**Long Definition:** 
-
-
+**Long Definition:** Formative assessments may be set to enable students to receive feedback on part of a longer assignment before they write a full summative assessment which they will get a mark for. Alternatively, they may be full practice assessments on different topics to final assessments.
 
 
 
-
+**Deep Dive:** Some university students are not familiar with the terms ‘formative’ and ‘summative’ assessment and confuse the two. It is therefore important for lecturers and course tutors to ensure that they explain these differences clearly.
 
 
 
 
 
-**Deep Dive:** 
 
 
 
-**Contributors:** NA
 
-**Tags:** NA
+
+
+
+
+**Contributors:** Tanya Fernbank
+
+**Tags:** Pedagogy

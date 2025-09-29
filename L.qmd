@@ -8,15 +8,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -32,15 +34,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** A career track at the University of Glasgow: [Guidelines for Learning, Teaching & Scholarship Track](https://www.gla.ac.uk/media/Media_499574_smxx.pdf)
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -56,15 +60,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -80,18 +86,46 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
 
 
 
+
+
+
+
+
+
+
+
+
+
 **Contributors:** NA
+
+**Tags:** NA
+ 
+## Learning Capture
+
+<dfn>Recording a teaching and learning experience</dfn>
+
+**Long Definition:** Learning capture encompasses the act of digitally recording a session, whether online or in person. This then allows you to curate and distribute pre-recorded to students. Additionally your live sessions can allow students to engage with the session at the time, and re-watch elements. If students miss a session they can catch up with the recording.
+
+Technology allows us to record live sessions whether in person or online. What technology is used is likely down to the institution involved. Many institutions record their lecture content, as well as additional learning moments from live and online sessions. Module teachers can also record short videos to introduce topics, add to learning materials and enhance content. These sessions are shared on the online platform provided by the software provider and the institution vle (virtual learning environment).
+
+**Deep Dive:** Whilst a growing established method for additional teaching resources, there can be some discontent with capturing live teaching sessions. Some work has gone into establishing a researched connection between student attendance and recorded sessions. Most conclude that those who engage with the live sessions, also engage with the recorded content. Those who find attending live sessions complicated because of personal commitments, but engage with the recordings are likely to succeed in learning. Additional support may be needed for all students to help them engage with the learning capture and get the most from it - not just re-watch and make notes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Contributors:** Peter Moll
 
 **Tags:** NA

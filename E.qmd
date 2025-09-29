@@ -4,25 +4,27 @@
 
 <dfn>An abbreviation for the term equality, diversity and inclusion</dfn>
 
-**Long Definition:** 
+**Long Definition:** Edi is about making sure everyone feels welcome, respected, and treated fairly, no matter their background, identity, or circumstances.
 
 
 
+**Deep Dive:** In practice, EDI shows up in things like:
 
+* Inclusive hiring and promotion processes
 
+* Accessible learning and working environments
 
+* Training to tackle unconscious bias
 
+* Creating safe spaces for open conversations
 
+* Listening to and amplifying underrepresented voices
 
-
-
-**Deep Dive:** 
-
-
+It‚Äôs also tied to legal responsibilities (like the Equality Act 2010 in the UK), but more importantly, it‚Äôs about doing the right thing and building a culture where everyone thrives.
 
 **Contributors:** NA
 
-**Tags:** NA
+**Tags:** #EDI #InclusionMatters #Fairness #Belonging #Accessibility #Respect #Equity
  
 ## Ecopedagogy
 
@@ -32,15 +34,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -56,15 +60,17 @@
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -72,23 +78,51 @@
 
 **Tags:** NA
  
+## EmpowerED (an independent Community of Practice for educators)
+
+<dfn>A collaborative network and platform that brings educators together to share ideas, explore innovations, and shape the future of digital learning.</dfn>
+
+**Long Definition:** Empowered is a cross-institutional community designed to connect educators, learning technologists, researchers, and students who are interested in the changing landscape of education. Through webinars, podcasts, events, and shared resources, it provides a space for dialogue, professional growth, and the exchange of best practices. Its purpose is to empower individuals and institutions to navigate challenges, experiment with new approaches, and amplify voices that might otherwise be overlooked in educational conversations.
+
+
+
+**Deep Dive:** At its core, EmpowerED is about co-creation and inclusivity. It is not tied to any one university or organisation but thrives on collective contributions. Season-based webinars feature diverse presenters from across the sector, podcasts dig into emerging themes such as AI in education, accessibility, and student voice, and some webinar sessions provide hands-on opportunities to experiment with tools and pedagogy. The initiative also curates resources and showcases projects to foster knowledge exchange. By building a supportive and reflective community, EmpowerED helps educators not only keep pace with digital transformation but also critically engage with it, ensuring technology serves meaningful learning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Contributors:** (Anshul Lau) Educators, technologists, students, researchers, and leaders from across higher education and beyond, anyone who brings experience, insight, or curiosity to the shared goal of improving education.
+
+**Tags:** NA
+ 
 ## Epistemology
 
 <dfn>Epistemology is the study of the nature of knowledge, how it is defined, what can be known, and what are its limits.</dfn>
 
-**Long Definition:** Epistemology is the study of the nature of knowledge, how it is defined, what can be known, and what are its limits.
+**Long Definition:** 
 
-Guba, e. S. and lincoln, y. S. (1994) ëcompeting paradigms in qualitative researchí, in denzin, n.k. & Lincoln, y.s. (eds.) Handbook of qualitative research. 2 ed. Thousand oaks, sage.
 
-ìEpistemology, according to the oxford english dictionary, is the theory or science of the method and ground of knowledge. It is a core area of philosophical study that includes the sources and limits, rationality and justification of knowledge.î
 
-Stone, l. 2008. Epistemology. In given, l. (ed.) The sage encyclopedia of qualitative research methods. Thousand oaks.
+**Deep Dive:** Epistemology is the study of the nature of knowledge, how it is defined, what can be known, and what are its limits.
 
-ìBranch of philosophy that investigates the possibility, origins, nature, and extent of human knowledge. Although the effort to develop an adequate theory of knowledge is at least as old as platoís theaetetus, epistemology has dominated western philosophy only since the era of descartes and locke, as an extended dispute between rationalism and empiricism over the respective importance of a priori and a posteriori origins. Contemporary postmodern thinkers (including many feminist philosophers) have proposed the contextualization of knowledge as part of an intersubjective process.
+Guba, E. S. and Lincoln, Y. S. (1994) ‚ÄòCompeting paradigms in qualitative research‚Äô, in Denzin, N.K. & Lincoln, Y.S. (eds.) Handbook of qualitative research. 2 ed. Thousand Oaks, SAGE.
 
-ìDefined narrowly, epistemology is the study of knowledge and justified belief. As the study of knowledge, epistemology is concerned with the following questions. What are the necessary and sufficient conditions of knowledge? What are its sources? What is its structure, and what are its limits? As the study of justified belief, epistemology aims to answer questions such as how we are to understand the concept of justification? What makes justified beliefs justified? Is justification internal or external to oneís own mind? Understood more broadly, epistemology is about issues having to do with the creation and dissemination of knowledge in particular areas of inquiry.
+‚ÄúEpistemology, according to the Oxford English Dictionary, is the theory or science of the method and ground of knowledge. It is a core area of philosophical study that includes the sources and limits, rationality and justification of knowledge.‚Äù
 
-**Deep Dive:** 
+Stone, L. 2008. Epistemology. In Given, L. (ed.) The SAGE Encyclopedia of Qualitative Research Methods. Thousand Oaks.
+
+‚ÄúBranch of philosophy that investigates the possibility, origins, nature, and extent of human knowledge. Although the effort to develop an adequate theory of knowledge is at least as old as Plato‚Äôs Theaetetus, epistemology has dominated Western philosophy only since the era of Descartes and Locke, as an extended dispute between rationalism and empiricism over the respective importance of a priori and a posteriori origins. Contemporary postmodern thinkers (including many feminist philosophers) have proposed the contextualization of knowledge as part of an intersubjective process.
+
+‚ÄúDefined narrowly, epistemology is the study of knowledge and justified belief. As the study of knowledge, epistemology is concerned with the following questions. What are the necessary and sufficient conditions of knowledge? What are its sources? What is its structure, and what are its limits? As the study of justified belief, epistemology aims to answer questions such as How we are to understand the concept of justification? What makes justified beliefs justified? Is justification internal or external to one‚Äôs own mind? Understood more broadly, epistemology is about issues having to do with the creation and dissemination of knowledge in particular areas of inquiry.
 
 
 
@@ -104,15 +138,17 @@ Stone, l. 2008. Epistemology. In given, l. (ed.) The sage encyclopedia of qualit
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -128,15 +164,17 @@ Stone, l. 2008. Epistemology. In given, l. (ed.) The sage encyclopedia of qualit
 
 
 
-
-
-
-
-
-
-
-
 **Deep Dive:** 
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -10,6 +10,7 @@ contributors <- read_xlsx("SoTL_Compendium_Contributors.xlsx")
 
 contributors %>% 
   drop_na(Firstname) %>% 
+  arrange(Surname) %>%
   mutate(Fullname = paste(Firstname, Surname, sep = " ")) %>% 
   select(Name = Fullname, Affiliation = `Affiliation 1`) %>% 
   knitr::kable()
